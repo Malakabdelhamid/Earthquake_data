@@ -1,0 +1,1001 @@
+date,latitude,longitude,depth,region,country,proximity_to_cities,fault_or_tectonic_plate,seismic_intensity,wave_amplitude,frequency,historical_seismic_data,soil_type,rock_structure,magnitude
+8/15/1916,-31.3961762,26.354462,94.16,South America,South Africa,Nearby,Fault C,Moderate,20.26,78.51,Not available,Sandy,Metamorphic,6.35
+10/25/1932,53.3360274,14.4402283,82.39,Africa,Poland,Far away,Fault A,High,63.31,7.42,Not available,Clay,Igneous,3.88
+1/22/1985,33.989451,105.097568,40.28,South America,China,Far away,Fault B,High,8.33,28.18,Not available,Sandy,Sedimentary,7.89
+9/27/2008,14.0391161,-83.3949632,7.68,South America,Nicaragua,Nearby,Fault C,Moderate,76.94,20.12,Not available,Loam,Metamorphic,5.7
+3/30/1966,12.9626069,-2.2581158,79.06,Australia,Burkina Faso,Nearby,Fault C,Moderate,36.25,89.59,Available,Clay,Sedimentary,1.35
+2/13/1957,14.5770566,121.0120171,92.82,North America,Philippines,Nearby,Fault B,Low,83.97,34.31,Available,Sandy,Igneous,4.09
+2/22/1947,9.92676,123.616147,84.96,South America,Philippines,Nearby,Fault C,Moderate,98.46,23.07,Available,Clay,Igneous,5.04
+2/19/2011,25.84122,116.023145,47.7,Africa,China,Far away,Fault B,Low,59.21,71.88,Available,Sandy,Sedimentary,0.44
+9/16/1927,30.7292723,31.7977797,31.83,South America,Egypt,Nearby,Fault C,Moderate,59.71,84.35,Available,Clay,Igneous,4.95
+4/7/1968,55.7195009,21.9281999,97.53,Europe,Lithuania,Nearby,Fault A,High,2.55,71.83,Available,Sandy,Metamorphic,4.66
+3/16/2011,49.6306384,6.0346235,89.59,Africa,Luxembourg,Far away,Fault C,Moderate,29.34,75.17,Available,Sandy,Metamorphic,9.69
+11/1/1941,37.7668391,21.3383382,13.78,Asia,Greece,Far away,Fault B,High,29.21,16.51,Not available,Loam,Metamorphic,7.14
+1/21/1958,34.363184,107.237743,81.0,Africa,China,Far away,Fault B,Moderate,5.1,78.28,Not available,Sandy,Metamorphic,5.35
+5/7/1944,43.0369422,19.7561911,56.52,Europe,Montenegro,Far away,Fault B,Low,80.84,98.57,Available,Loam,Igneous,7.77
+6/16/1959,39.925359,116.410316,83.28,Australia,China,Far away,Fault B,Moderate,27.95,71.4,Available,Sandy,Sedimentary,2.91
+4/18/1984,6.4918217,101.3885001,43.81,North America,Thailand,Far away,Fault A,High,80.95,14.29,Not available,Sandy,Igneous,8.7
+9/3/1933,10.1579312,-67.9972104,72.25,Europe,Venezuela,Far away,Fault C,Low,43.68,74.45,Not available,Loam,Igneous,5.46
+5/18/1930,51.341478,34.6310084,14.19,Africa,Russia,Far away,Fault A,High,84.12,79.7,Available,Clay,Sedimentary,8.48
+2/26/1940,27.644731,111.554576,81.8,Australia,China,Far away,Fault B,Moderate,20.17,45.37,Available,Sandy,Sedimentary,5.08
+6/17/2015,34.8118351,126.3921664,90.49,Europe,South Korea,Far away,Fault B,Low,25.3,48.48,Not available,Sandy,Metamorphic,5.68
+5/15/1910,17.8200009,120.4544261,26.82,Africa,Philippines,Far away,Fault B,Low,4.56,47.85,Not available,Sandy,Metamorphic,6.12
+9/10/1903,-9.0933664,124.8905151,73.12,Australia,Indonesia,Far away,Fault B,Low,28.77,50.89,Available,Clay,Sedimentary,0.69
+8/17/1909,-27.7310843,-64.2708937,21.6,North America,Argentina,Nearby,Fault A,Moderate,29.47,44.66,Not available,Clay,Metamorphic,0.35
+10/7/1974,35.326057,67.6364059,77.87,Australia,Afghanistan,Nearby,Fault A,Low,36.96,73.91,Available,Loam,Metamorphic,7.54
+6/28/2001,13.9289816,121.3567739,15.73,Africa,Philippines,Nearby,Fault C,High,36.11,48.0,Not available,Clay,Sedimentary,0.6
+9/25/1939,49.4744011,19.6404278,34.75,South America,Poland,Far away,Fault A,Low,3.85,40.53,Available,Clay,Igneous,5.56
+11/11/1905,38.8,-77.05,43.8,Europe,United States,Nearby,Fault C,Low,75.23,78.61,Not available,Loam,Sedimentary,6.56
+7/5/1964,-7.8478439,-35.7570657,48.82,North America,Brazil,Nearby,Fault B,High,39.27,41.49,Not available,Clay,Igneous,4.58
+5/13/1914,14.9817467,-87.8893383,91.6,South America,Honduras,Far away,Fault C,Low,69.84,69.18,Available,Clay,Metamorphic,8.22
+9/20/1969,23.7247599,108.8076195,53.88,Africa,China,Far away,Fault C,Low,9.14,16.97,Available,Sandy,Igneous,1.08
+9/7/1929,39.7213971,-7.9808794,5.36,North America,Portugal,Nearby,Fault C,Moderate,89.57,28.45,Not available,Sandy,Sedimentary,8.48
+1/23/1943,12.269743,125.358562,15.42,Asia,Philippines,Far away,Fault A,Moderate,1.35,43.64,Not available,Loam,Sedimentary,6.78
+3/6/1936,22.6113591,120.3493158,94.08,Australia,Taiwan,Far away,Fault A,High,12.09,14.25,Available,Sandy,Metamorphic,3.68
+4/22/2002,53.2445421,50.4047054,27.53,Australia,Russia,Far away,Fault C,Moderate,68.78,15.81,Not available,Loam,Igneous,4.28
+12/1/1963,-34.7063243,-58.4776004,43.55,Australia,Argentina,Far away,Fault A,Low,31.35,6.99,Not available,Clay,Metamorphic,2.51
+2/23/1959,58.962927,16.4145518,0.4,Asia,Sweden,Far away,Fault A,Moderate,83.21,67.08,Not available,Sandy,Metamorphic,5.47
+2/17/1955,31.4727877,72.9967658,6.58,Africa,Pakistan,Nearby,Fault B,Moderate,44.53,45.54,Available,Loam,Sedimentary,5.03
+7/28/1955,39.3433574,117.3616476,70.88,Africa,China,Far away,Fault A,Low,81.35,1.22,Available,Loam,Metamorphic,8.46
+12/14/1941,22.163704,110.671258,35.47,Asia,China,Far away,Fault B,High,47.04,61.41,Available,Loam,Igneous,0.65
+7/27/1949,-22.7563906,-41.889042,67.41,South America,Brazil,Far away,Fault A,Moderate,78.67,66.84,Not available,Clay,Sedimentary,5.42
+3/20/1947,37.8246038,126.9836808,67.16,North America,South Korea,Nearby,Fault B,Moderate,81.88,96.5,Available,Sandy,Igneous,3.83
+8/22/1985,34.339552,58.7030326,85.78,North America,Iran,Nearby,Fault A,High,11.84,13.97,Not available,Clay,Igneous,8.46
+5/30/1953,13.2881184,-87.0336925,4.08,Europe,Honduras,Far away,Fault A,Low,52.87,33.78,Not available,Sandy,Sedimentary,9.27
+8/24/1954,0.636206,34.2782765,62.35,Europe,Kenya,Far away,Fault C,Low,52.62,93.07,Not available,Sandy,Metamorphic,1.78
+7/4/1915,31.364902,108.249509,14.21,Africa,China,Far away,Fault C,High,58.95,3.27,Not available,Sandy,Metamorphic,8.46
+5/11/1930,9.575985,125.423119,48.39,Africa,Philippines,Nearby,Fault C,Moderate,26.38,20.76,Available,Sandy,Igneous,4.39
+1/28/1949,14.2157645,109.1166566,4.2,Europe,Vietnam,Nearby,Fault A,Moderate,11.79,70.94,Available,Sandy,Metamorphic,6.78
+6/5/1939,-8.2,114.5,59.85,South America,Indonesia,Nearby,Fault B,High,35.99,0.15,Available,Loam,Igneous,8.11
+4/27/1997,-9.3294895,125.2697802,73.33,Asia,East Timor,Nearby,Fault A,Low,76.36,4.95,Available,Sandy,Sedimentary,4.85
+9/5/1987,7.8209667,-72.2896709,50.27,Asia,Venezuela,Far away,Fault C,Moderate,70.02,12.44,Not available,Clay,Metamorphic,9.95
+4/4/1975,14.5177485,120.5973573,30.81,Africa,Philippines,Far away,Fault B,Low,78.25,85.87,Available,Loam,Metamorphic,8.94
+2/21/1963,38.174362,114.908822,93.37,Asia,China,Far away,Fault A,Moderate,89.86,0.25,Not available,Clay,Metamorphic,8.52
+1/19/1969,7.9877141,-10.8479688,78.44,North America,Sierra Leone,Nearby,Fault A,Low,3.97,70.18,Available,Sandy,Igneous,2.51
+8/28/1908,55.59754,38.47134,43.27,Asia,Russia,Far away,Fault B,Moderate,32.96,83.3,Available,Clay,Igneous,1.94
+7/2/1992,56.4482379,21.5989599,74.75,Asia,Latvia,Nearby,Fault C,Low,26.04,70.11,Available,Clay,Igneous,7.12
+7/19/1914,14.0786882,101.0259275,47.45,North America,Thailand,Nearby,Fault C,High,70.98,49.41,Available,Sandy,Sedimentary,5.64
+3/26/1921,60.3749535,19.8471958,90.92,Europe,Aland Islands,Nearby,Fault C,Low,88.72,1.39,Available,Clay,Sedimentary,3.69
+5/17/1998,31.830035,115.388966,67.88,Asia,China,Far away,Fault C,High,11.29,25.34,Not available,Loam,Igneous,5.48
+7/12/1955,30.823054,110.973252,91.12,North America,China,Nearby,Fault B,Low,91.9,67.62,Available,Sandy,Igneous,3.88
+1/7/1949,-6.7204,111.0994,53.38,Africa,Indonesia,Far away,Fault C,Low,36.57,5.1,Available,Loam,Igneous,7.05
+5/16/1971,29.985295,122.207215,54.21,Africa,China,Nearby,Fault C,High,58.58,22.1,Available,Sandy,Sedimentary,5.98
+10/9/2013,63.1747832,17.2654819,22.65,Africa,Sweden,Nearby,Fault C,Low,74.27,48.33,Available,Sandy,Metamorphic,2.69
+2/10/1908,54.1463269,12.1186173,9.55,Europe,Germany,Far away,Fault C,Moderate,19.48,22.41,Not available,Sandy,Metamorphic,6.9
+10/24/1949,-21.35188,-46.4970116,28.05,Australia,Brazil,Far away,Fault A,Low,0.99,22.05,Available,Loam,Metamorphic,6.99
+6/27/2009,29.028766,111.697912,50.6,Europe,China,Nearby,Fault B,High,79.65,33.88,Available,Sandy,Igneous,8.58
+12/25/1938,28.264515,115.9608,10.01,Europe,China,Far away,Fault A,Moderate,61.79,47.67,Not available,Loam,Metamorphic,6.62
+9/19/2004,-24.2570411,-53.7803147,42.39,Africa,Brazil,Nearby,Fault B,Low,63.79,40.01,Available,Clay,Igneous,3.55
+11/28/1910,-34.6674349,-63.3785604,67.22,North America,Argentina,Nearby,Fault B,Moderate,25.03,83.82,Not available,Sandy,Igneous,3.05
+11/13/2015,34.7105088,134.1164564,91.07,Europe,Japan,Nearby,Fault B,High,74.12,55.58,Available,Sandy,Igneous,5.46
+3/11/1980,36.588392,115.891646,42.22,Europe,China,Far away,Fault A,High,38.16,30.02,Available,Sandy,Igneous,3.62
+1/9/2002,30.97213,119.310773,80.27,North America,China,Far away,Fault B,High,44.62,23.95,Not available,Clay,Sedimentary,9.5
+9/16/2006,26.770007,113.535405,37.61,Asia,China,Nearby,Fault A,Moderate,56.46,94.08,Not available,Sandy,Metamorphic,4.71
+4/28/1905,14.335889,-89.713497,0.77,Europe,Guatemala,Far away,Fault B,Low,35.63,83.47,Available,Loam,Sedimentary,8.51
+6/12/2000,45.4451601,35.8363269,82.77,Europe,Ukraine,Nearby,Fault A,Moderate,33.87,73.45,Not available,Loam,Metamorphic,5.98
+11/21/1934,-8.3052,123.237,84.6,North America,Indonesia,Far away,Fault B,High,26.2,35.16,Not available,Loam,Igneous,8.57
+6/3/1924,38.1536393,140.266785,20.47,Europe,Japan,Far away,Fault C,Low,58.07,69.85,Available,Clay,Metamorphic,1.14
+2/3/1948,62.4729446,17.4155753,85.24,Asia,Sweden,Nearby,Fault C,Low,83.18,60.79,Not available,Loam,Sedimentary,5.8
+8/10/1943,3.5951956,98.6722227,46.31,North America,Indonesia,Nearby,Fault A,Low,73.06,75.89,Not available,Loam,Sedimentary,4.76
+8/1/1902,48.4187171,36.429969,54.61,Europe,Ukraine,Far away,Fault C,Moderate,34.17,57.15,Available,Sandy,Sedimentary,9.38
+11/14/1948,32.7778898,61.6567273,58.57,North America,Afghanistan,Nearby,Fault B,Moderate,55.69,9.52,Not available,Loam,Igneous,8.5
+4/11/1926,45.6592536,40.7666934,13.73,South America,Russia,Nearby,Fault A,Low,33.41,42.62,Available,Clay,Metamorphic,7.3
+3/22/1918,32.9760392,132.9645335,93.06,Europe,Japan,Nearby,Fault B,Moderate,12.85,18.6,Available,Sandy,Igneous,7.77
+5/5/1987,21.48402,109.10459,43.58,Europe,China,Nearby,Fault B,Moderate,56.13,97.97,Not available,Sandy,Sedimentary,4.88
+4/9/1917,38.7035566,-7.7801629,86.43,Europe,Portugal,Nearby,Fault A,Low,63.13,22.53,Not available,Loam,Igneous,6.6
+1/5/1926,26.6646381,87.271781,45.13,Africa,Nepal,Far away,Fault A,High,85.62,41.77,Not available,Sandy,Igneous,7.71
+5/29/1998,32.868426,120.320328,6.97,Asia,China,Far away,Fault C,High,23.52,46.18,Not available,Loam,Sedimentary,4.53
+12/30/1948,13.6962531,100.8241914,84.15,Europe,Thailand,Nearby,Fault A,Low,5.94,27.05,Not available,Sandy,Igneous,9.46
+7/5/1972,-26.2301262,-49.3471838,99.43,Europe,Brazil,Far away,Fault B,Moderate,87.07,0.88,Available,Sandy,Metamorphic,1.82
+12/23/1943,10.2183336,2.6660901,99.53,Europe,Benin,Nearby,Fault C,High,20.57,5.53,Not available,Loam,Metamorphic,7.53
+8/3/1988,45.5599168,-73.2004857,52.5,Europe,Canada,Far away,Fault A,Moderate,97.89,17.22,Not available,Clay,Sedimentary,9.36
+2/24/1904,59.3774523,17.0321193,41.99,Asia,Sweden,Nearby,Fault B,Low,67.48,59.76,Available,Clay,Sedimentary,5.91
+6/1/1965,33.323763,117.906025,16.96,North America,China,Far away,Fault C,Low,16.05,33.4,Not available,Clay,Metamorphic,3.53
+1/23/1904,26.2903765,31.8571172,11.95,South America,Egypt,Far away,Fault A,Moderate,71.53,85.29,Not available,Loam,Igneous,4.68
+2/7/1932,52.7440595,21.1228461,43.43,Asia,Poland,Nearby,Fault B,High,84.85,6.91,Not available,Clay,Metamorphic,9.5
+7/9/1955,-12.2632051,44.5290018,78.73,South America,Comoros,Nearby,Fault C,High,97.51,30.96,Not available,Sandy,Igneous,2.05
+1/18/1963,35.2686888,9.4283801,44.25,North America,Tunisia,Far away,Fault B,Moderate,64.4,7.71,Available,Clay,Sedimentary,9.5
+8/25/1937,-27.7863104,26.6494394,18.33,South America,South Africa,Nearby,Fault B,Moderate,94.38,29.65,Available,Clay,Sedimentary,1.99
+4/1/1919,36.389401,120.44716,70.06,Asia,China,Nearby,Fault B,Low,40.25,55.28,Not available,Clay,Metamorphic,2.43
+7/3/1986,26.790544,99.816059,72.8,South America,China,Far away,Fault C,Low,73.34,85.82,Available,Sandy,Igneous,6.53
+7/6/1988,20.3278427,-89.6440716,43.41,Australia,Mexico,Nearby,Fault A,Moderate,10.87,96.34,Available,Sandy,Igneous,4.56
+3/30/1927,48.9101028,2.234305,93.66,Asia,France,Far away,Fault A,Moderate,9.18,34.0,Not available,Clay,Metamorphic,6.25
+8/6/1938,26.4168857,105.7581834,64.51,Australia,China,Far away,Fault A,High,47.96,59.91,Not available,Sandy,Igneous,6.2
+12/23/1988,51.4787508,38.0781648,11.98,Australia,Russia,Far away,Fault B,Moderate,72.0,84.7,Not available,Sandy,Metamorphic,8.32
+3/5/1984,35.1804745,32.6786008,16.26,South America,Cyprus,Nearby,Fault C,High,11.74,17.1,Not available,Loam,Metamorphic,8.77
+7/11/1933,56.7952392,105.8855714,22.25,Asia,Russia,Nearby,Fault C,Low,33.82,39.53,Available,Sandy,Igneous,5.14
+9/12/1918,4.4979714,-73.9118159,49.16,Europe,Colombia,Nearby,Fault A,Moderate,72.16,3.15,Not available,Clay,Sedimentary,2.94
+2/7/1989,-8.8325814,-35.2807624,2.05,North America,Brazil,Far away,Fault B,Low,11.57,89.33,Available,Sandy,Igneous,4.75
+5/15/1961,52.6396679,-9.4904891,52.97,North America,Ireland,Nearby,Fault C,Moderate,53.66,20.29,Not available,Loam,Igneous,5.71
+10/6/1992,52.4818411,19.2910855,3.26,Australia,Poland,Far away,Fault B,Low,81.51,3.1,Not available,Sandy,Metamorphic,2.8
+5/14/1983,38.407753,114.015532,46.06,Australia,China,Far away,Fault C,Low,88.77,2.87,Not available,Loam,Igneous,1.38
+1/24/1956,32.667571,119.004816,95.38,Australia,China,Nearby,Fault B,Low,85.56,42.95,Not available,Loam,Igneous,9.42
+6/11/1997,36.4072574,10.6224706,70.2,Australia,Tunisia,Nearby,Fault B,Moderate,38.37,78.24,Not available,Loam,Igneous,0.96
+12/1/1965,55.597144,37.0361031,50.78,Europe,Russia,Nearby,Fault C,High,65.64,13.69,Not available,Sandy,Sedimentary,0.94
+5/2/1949,38.636131,24.1027745,0.71,North America,Greece,Nearby,Fault A,Low,21.24,35.45,Not available,Sandy,Metamorphic,9.54
+12/1/1917,21.1241396,105.5939066,97.4,Africa,Vietnam,Far away,Fault C,Moderate,18.67,77.83,Available,Sandy,Igneous,6.58
+9/1/1964,7.935298,-68.917999,67.62,Africa,Venezuela,Nearby,Fault C,Low,21.98,9.57,Not available,Sandy,Metamorphic,2.22
+12/4/1986,12.9942656,123.6402206,52.66,Africa,Philippines,Nearby,Fault B,Low,24.5,77.69,Available,Sandy,Sedimentary,9.39
+11/20/1916,3.5611792,98.8799525,60.21,Europe,Indonesia,Far away,Fault C,High,2.16,8.6,Not available,Sandy,Sedimentary,5.05
+7/18/1994,23.2116858,91.1161166,1.94,Asia,Bangladesh,Nearby,Fault B,Low,2.38,46.68,Available,Sandy,Sedimentary,8.55
+6/30/1945,33.8779023,9.745565,43.06,Europe,Tunisia,Nearby,Fault B,High,82.33,13.1,Available,Clay,Sedimentary,6.2
+10/6/1914,27.4456115,-99.5520682,0.55,Asia,Mexico,Nearby,Fault A,Low,26.93,98.16,Available,Loam,Metamorphic,3.23
+5/14/1966,41.87148,22.28961,98.96,Australia,Macedonia,Far away,Fault C,Moderate,50.41,57.12,Not available,Loam,Igneous,9.28
+6/15/1927,60.392798,5.3223461,65.77,South America,Norway,Nearby,Fault B,Low,50.11,69.26,Available,Clay,Metamorphic,8.58
+9/30/1957,18.2711339,103.2221303,28.76,Africa,Thailand,Far away,Fault B,Low,18.18,70.33,Not available,Sandy,Sedimentary,5.26
+2/13/1993,-23.3711864,-46.7575221,65.76,Africa,Brazil,Nearby,Fault B,Moderate,13.07,76.05,Available,Loam,Igneous,1.55
+11/19/1929,58.9583506,5.7740124,93.98,Africa,Norway,Nearby,Fault B,Moderate,1.32,18.92,Available,Sandy,Igneous,4.72
+12/4/1954,39.86722,126.03028,0.07,Africa,North Korea,Far away,Fault B,Low,97.58,62.63,Available,Clay,Igneous,3.96
+9/18/1944,51.3879616,34.9737843,5.84,North America,Russia,Far away,Fault B,Moderate,84.07,89.11,Available,Loam,Sedimentary,8.94
+11/30/2011,25.179836,119.08713,83.8,Asia,China,Nearby,Fault B,High,29.34,41.54,Available,Clay,Igneous,1.29
+6/17/2020,-8.6931631,-67.952363,41.27,Australia,Brazil,Nearby,Fault C,High,29.05,86.48,Not available,Sandy,Igneous,0.52
+10/15/1994,33.0405226,112.232972,64.99,Africa,China,Far away,Fault A,Low,34.58,99.31,Not available,Loam,Igneous,6.94
+11/12/1948,27.087637,114.964696,27.33,Europe,China,Far away,Fault C,High,76.02,41.15,Not available,Clay,Metamorphic,1.18
+12/24/1905,45.288656,4.65065,18.74,Australia,France,Nearby,Fault B,Moderate,48.14,79.93,Available,Loam,Igneous,8.77
+12/29/1908,-20.5923566,-45.4874873,47.54,Asia,Brazil,Far away,Fault C,Moderate,49.87,61.9,Not available,Clay,Sedimentary,7.34
+5/3/1920,56.1629286,13.8037716,27.34,North America,Sweden,Far away,Fault A,High,43.76,9.99,Not available,Loam,Sedimentary,5.0
+1/21/1967,40.8285039,-73.8918897,89.1,South America,United States,Far away,Fault B,Low,65.91,89.46,Available,Loam,Metamorphic,2.51
+4/24/1915,25.111382,117.549211,32.34,North America,China,Far away,Fault C,Low,30.34,76.31,Available,Sandy,Sedimentary,9.46
+2/28/1913,48.39302,-77.23951,62.76,North America,Canada,Nearby,Fault B,High,75.54,18.14,Available,Sandy,Metamorphic,3.89
+11/6/2021,14.549965,-86.8270545,59.0,South America,Honduras,Far away,Fault C,Low,85.52,89.32,Available,Clay,Sedimentary,4.62
+2/10/1961,-6.9852949,112.5766579,9.03,Asia,Indonesia,Nearby,Fault A,Low,46.46,71.11,Not available,Sandy,Sedimentary,7.96
+2/24/1967,52.1466159,23.3386501,83.58,Europe,Poland,Nearby,Fault C,High,73.37,4.29,Available,Clay,Metamorphic,8.53
+6/6/2005,23.051645,113.581789,94.76,Australia,China,Nearby,Fault C,Moderate,73.01,23.32,Not available,Loam,Sedimentary,2.9
+10/26/1967,59.4527156,18.091186,40.15,Europe,Sweden,Far away,Fault C,High,29.41,5.7,Available,Clay,Sedimentary,3.47
+1/5/1961,1.8480062,114.8923533,62.81,Australia,Indonesia,Nearby,Fault B,High,85.02,47.65,Available,Sandy,Metamorphic,4.29
+1/16/1971,19.1168606,-70.6097821,68.03,Europe,Dominican Republic,Nearby,Fault B,Low,70.25,95.89,Not available,Sandy,Sedimentary,8.12
+10/1/1962,62.3873541,17.300175,51.0,South America,Sweden,Far away,Fault A,Low,20.64,69.65,Available,Loam,Igneous,4.63
+11/30/1906,-6.6274275,106.7529652,72.03,Europe,Indonesia,Far away,Fault B,High,73.63,40.95,Available,Sandy,Sedimentary,2.73
+2/16/1969,-19.1813272,-65.0008536,59.53,Africa,Bolivia,Nearby,Fault B,Moderate,3.69,75.43,Available,Sandy,Sedimentary,3.24
+6/6/1931,-11.2780052,-37.5747647,89.56,Europe,Brazil,Nearby,Fault C,Low,85.09,97.89,Available,Sandy,Igneous,8.68
+1/20/1961,28.682892,115.858197,89.03,South America,China,Far away,Fault A,Low,59.49,9.96,Available,Sandy,Sedimentary,0.81
+9/12/1955,49.246867,126.991527,21.49,Asia,China,Nearby,Fault A,Moderate,43.19,82.65,Not available,Loam,Sedimentary,2.76
+11/29/2011,53.6179245,109.6396262,9.65,Australia,Russia,Far away,Fault A,Moderate,68.78,11.68,Available,Clay,Sedimentary,8.12
+10/27/1919,14.6733187,121.0601862,55.94,Europe,Philippines,Far away,Fault B,High,85.55,70.69,Available,Sandy,Metamorphic,6.54
+2/16/1916,47.07472,35.14444,89.42,North America,Ukraine,Far away,Fault B,Low,47.22,85.3,Not available,Clay,Igneous,6.34
+11/10/1905,45.8266432,20.5937585,79.75,South America,Serbia,Far away,Fault B,High,10.38,52.56,Available,Sandy,Metamorphic,5.7
+2/12/1909,-8.4896395,118.797517,73.94,North America,Indonesia,Far away,Fault B,Low,22.93,5.6,Not available,Sandy,Metamorphic,7.51
+2/8/1971,15.3993773,120.9422852,73.86,South America,Philippines,Far away,Fault C,High,2.71,11.17,Not available,Sandy,Sedimentary,8.8
+10/10/1983,-7.2209016,106.962467,84.11,North America,Indonesia,Nearby,Fault B,Moderate,9.9,24.89,Available,Loam,Igneous,0.67
+12/16/1956,39.480497,117.345479,59.26,Australia,China,Nearby,Fault A,Low,65.0,81.01,Not available,Clay,Igneous,6.29
+10/17/1911,40.5742298,48.3896404,28.74,Australia,Azerbaijan,Nearby,Fault A,High,11.63,69.46,Not available,Loam,Sedimentary,9.45
+5/7/1904,-8.844744,121.648987,45.18,Africa,Indonesia,Nearby,Fault B,Low,66.88,52.63,Not available,Clay,Sedimentary,6.51
+4/23/1977,38.400112,114.866414,48.1,North America,China,Nearby,Fault C,Moderate,49.09,87.37,Not available,Clay,Sedimentary,2.52
+4/1/1916,49.8180882,22.4761571,87.94,South America,Poland,Far away,Fault A,Moderate,64.16,61.14,Available,Loam,Igneous,0.12
+6/12/1919,50.5602298,14.166977,79.82,South America,Czech Republic,Far away,Fault A,High,74.92,77.54,Available,Clay,Sedimentary,3.61
+10/2/1950,37.841046,140.5203882,70.21,Asia,Japan,Far away,Fault A,Moderate,19.07,0.44,Available,Clay,Sedimentary,2.27
+4/9/1995,36.728017,10.8536132,92.06,South America,Tunisia,Nearby,Fault B,Moderate,23.71,55.2,Available,Sandy,Igneous,6.3
+1/5/1964,46.2952236,30.6480855,23.47,Asia,Ukraine,Far away,Fault A,High,47.0,73.44,Not available,Clay,Igneous,9.33
+2/24/1982,37.2203773,49.3095058,44.08,Africa,Iran,Nearby,Fault B,Low,43.48,42.63,Not available,Loam,Igneous,9.58
+3/3/1964,37.3551423,140.3637407,58.3,Australia,Japan,Nearby,Fault C,High,25.41,88.54,Not available,Clay,Igneous,1.85
+8/30/1963,11.0980639,107.678501,84.48,Africa,Vietnam,Nearby,Fault A,Moderate,20.0,0.11,Not available,Clay,Sedimentary,4.82
+3/10/1986,30.964593,120.780294,92.87,Europe,China,Nearby,Fault B,Moderate,18.66,51.03,Not available,Clay,Sedimentary,4.04
+2/2/1925,38.119756,23.8661305,6.74,Asia,Greece,Far away,Fault C,Low,3.65,79.44,Not available,Loam,Sedimentary,9.71
+8/23/1943,57.7197857,12.933356,21.92,Asia,Sweden,Far away,Fault A,High,78.22,12.64,Not available,Clay,Metamorphic,5.9
+6/8/1932,-7.5450262,111.6556388,60.58,Europe,Indonesia,Nearby,Fault C,High,34.87,9.3,Not available,Sandy,Metamorphic,5.75
+7/23/1994,68.7986342,16.5414503,89.6,South America,Norway,Far away,Fault B,Moderate,56.25,3.85,Available,Clay,Sedimentary,2.98
+12/8/2021,30.03312,120.868122,43.99,Europe,China,Nearby,Fault C,Moderate,81.47,55.72,Available,Clay,Igneous,9.25
+5/3/2018,58.591557,125.430748,26.99,North America,Russia,Nearby,Fault C,High,92.61,40.79,Available,Loam,Sedimentary,6.07
+1/16/1924,-8.7636824,121.7238208,8.64,Africa,Indonesia,Far away,Fault A,Moderate,67.41,18.4,Available,Clay,Metamorphic,3.47
+7/21/1972,39.3134407,20.7929638,27.34,Europe,Greece,Nearby,Fault A,Moderate,90.02,43.46,Not available,Loam,Sedimentary,5.93
+6/23/1991,35.0965045,32.8422959,40.32,Asia,Cyprus,Nearby,Fault C,Moderate,41.09,4.49,Not available,Sandy,Igneous,6.03
+4/5/1909,48.9848042,16.4023975,25.1,South America,Czech Republic,Far away,Fault A,Moderate,45.56,9.62,Not available,Loam,Metamorphic,5.35
+3/7/1933,48.3688297,14.4310149,93.89,North America,Austria,Nearby,Fault A,Low,52.51,93.93,Available,Sandy,Sedimentary,0.13
+9/30/1969,10.7160345,124.011269,40.91,Asia,Philippines,Nearby,Fault B,High,49.76,52.55,Not available,Loam,Sedimentary,8.33
+1/29/1973,43.817071,125.323544,44.49,Australia,China,Nearby,Fault A,Low,82.9,0.68,Available,Clay,Metamorphic,2.28
+6/25/1973,39.525207,117.711487,77.78,South America,China,Far away,Fault B,Low,24.49,17.44,Available,Clay,Sedimentary,4.3
+8/18/1987,11.2770374,9.8822665,95.4,South America,Nigeria,Far away,Fault C,Low,96.17,13.09,Available,Clay,Sedimentary,0.17
+8/14/1904,34.31028,108.975658,73.61,Asia,China,Far away,Fault A,High,37.11,74.7,Not available,Sandy,Metamorphic,6.57
+2/3/1965,-7.1617465,-78.5127855,94.59,North America,Peru,Far away,Fault A,Moderate,13.97,58.92,Available,Clay,Igneous,9.9
+5/9/1919,46.774511,130.633035,28.15,South America,China,Far away,Fault A,Moderate,84.56,18.88,Available,Loam,Sedimentary,0.38
+9/20/1942,56.076372,35.9263157,55.41,South America,Russia,Nearby,Fault C,High,78.74,84.08,Not available,Loam,Igneous,5.32
+11/17/1942,41.0832289,-7.8225565,86.08,Europe,Portugal,Nearby,Fault C,Low,62.11,71.42,Available,Clay,Igneous,2.96
+4/11/1913,43.3815181,133.9055702,9.64,Africa,Russia,Nearby,Fault A,High,78.17,55.92,Available,Sandy,Sedimentary,6.76
+8/29/2005,12.0675239,123.7223625,54.45,North America,Philippines,Far away,Fault A,Moderate,50.04,24.36,Not available,Loam,Metamorphic,7.29
+4/18/1907,58.7859889,25.4275605,33.72,Africa,Estonia,Far away,Fault A,Low,83.51,60.95,Not available,Loam,Metamorphic,4.61
+4/6/1981,38.4664687,-9.0952451,41.58,Asia,Portugal,Far away,Fault C,Low,66.22,59.16,Not available,Sandy,Igneous,3.08
+3/20/1920,14.3618606,100.6685901,18.62,Australia,Thailand,Nearby,Fault B,Moderate,52.05,84.35,Not available,Clay,Sedimentary,2.85
+10/19/1953,-1.3516263,131.0797172,84.01,South America,Indonesia,Far away,Fault B,High,49.54,78.41,Available,Loam,Sedimentary,6.36
+12/18/1970,38.0974088,140.6725677,93.8,South America,Japan,Nearby,Fault C,High,27.76,15.97,Not available,Clay,Metamorphic,6.71
+8/11/1998,15.2110438,51.2500919,54.68,North America,Yemen,Far away,Fault B,Moderate,34.53,17.89,Available,Clay,Metamorphic,3.47
+8/22/1991,30.401356,-97.7525352,2.11,Australia,United States,Far away,Fault A,Low,42.01,95.53,Available,Clay,Metamorphic,2.17
+5/1/1976,49.0535092,16.8367681,69.45,Africa,Czech Republic,Nearby,Fault C,Low,37.58,88.78,Not available,Loam,Igneous,9.91
+2/21/2012,46.64968,38.39782,9.23,Europe,Russia,Nearby,Fault B,High,94.76,92.54,Available,Clay,Sedimentary,9.91
+11/12/2022,22.720595,113.829667,47.37,Asia,China,Far away,Fault A,Moderate,41.16,62.99,Available,Sandy,Sedimentary,5.68
+12/17/1956,-27.593609,-48.5027406,92.71,Australia,Brazil,Nearby,Fault C,High,26.98,73.94,Available,Clay,Sedimentary,2.64
+12/25/1943,-7.2528931,108.1886249,15.23,Australia,Indonesia,Far away,Fault A,Moderate,29.35,34.01,Not available,Clay,Metamorphic,3.33
+5/30/1941,-6.289662,106.755605,17.12,Asia,Indonesia,Nearby,Fault A,Low,25.61,9.75,Not available,Loam,Igneous,1.11
+3/26/1903,41.2624266,23.3738571,10.12,South America,Greece,Far away,Fault B,Moderate,16.18,56.34,Not available,Clay,Metamorphic,9.13
+7/15/1963,41.631154,42.3915567,31.95,Europe,Georgia,Far away,Fault B,Low,84.41,2.78,Not available,Clay,Sedimentary,4.12
+5/13/1972,48.1120825,25.7664345,27.89,Asia,Ukraine,Far away,Fault B,High,59.7,63.61,Available,Sandy,Igneous,9.14
+3/1/1987,31.904326,107.762268,67.88,Africa,China,Nearby,Fault B,Low,6.55,94.71,Available,Clay,Sedimentary,0.28
+8/9/1929,-34.6558079,-58.3734773,91.09,Europe,Argentina,Far away,Fault C,Low,36.66,42.37,Not available,Sandy,Igneous,2.47
+7/24/2017,15.1614193,100.1087187,83.86,North America,Thailand,Far away,Fault C,High,57.05,51.56,Not available,Sandy,Metamorphic,1.69
+2/15/1968,55.4738346,13.0125224,97.77,Africa,Sweden,Far away,Fault A,Moderate,91.96,96.81,Available,Clay,Igneous,8.63
+1/16/1996,-23.3866812,-48.7218983,14.65,Europe,Brazil,Nearby,Fault C,Moderate,56.03,13.16,Available,Loam,Sedimentary,0.57
+9/6/2000,-6.3904294,107.1733193,43.85,Australia,Indonesia,Far away,Fault B,Moderate,15.66,75.47,Not available,Sandy,Sedimentary,6.23
+4/18/1902,-7.3554007,-35.2258365,38.66,Europe,Brazil,Nearby,Fault C,Low,66.4,20.81,Available,Loam,Metamorphic,6.07
+4/20/1934,-6.9158643,112.4351068,18.22,Africa,Indonesia,Nearby,Fault C,High,24.61,34.35,Available,Clay,Sedimentary,0.22
+6/26/1943,12.261245,121.990929,84.32,North America,Philippines,Far away,Fault C,Low,9.75,13.46,Not available,Loam,Sedimentary,8.82
+4/11/1916,34.675197,103.498609,79.98,North America,China,Nearby,Fault B,High,34.96,23.72,Available,Clay,Sedimentary,2.26
+6/20/2007,14.9614897,120.8355408,41.02,Asia,Philippines,Nearby,Fault C,High,13.63,29.21,Available,Sandy,Metamorphic,5.33
+11/23/1959,-38.7418721,-62.2206382,11.37,South America,Argentina,Far away,Fault B,Moderate,16.51,61.46,Not available,Clay,Sedimentary,7.27
+2/25/1911,30.2102442,71.486643,81.2,South America,Pakistan,Nearby,Fault B,Moderate,61.8,39.16,Available,Loam,Sedimentary,5.74
+4/17/1933,31.8742348,10.9750484,58.72,North America,Libya,Far away,Fault B,High,68.02,95.91,Not available,Sandy,Sedimentary,9.55
+10/23/1909,15.6756662,121.1303669,94.57,Asia,Philippines,Far away,Fault C,Moderate,21.05,49.01,Available,Sandy,Sedimentary,2.31
+2/9/1960,35.904442,115.110483,86.19,North America,China,Far away,Fault A,Low,93.49,65.1,Available,Clay,Igneous,7.91
+9/26/1915,49.6877737,37.1778581,77.65,Europe,Ukraine,Far away,Fault B,High,18.43,34.13,Not available,Sandy,Metamorphic,8.87
+12/20/1940,5.4600818,-73.98004,6.45,Europe,Colombia,Nearby,Fault A,High,40.63,49.18,Available,Sandy,Metamorphic,2.37
+11/14/1945,19.27898,-99.1653351,91.44,Asia,Mexico,Nearby,Fault C,Low,28.56,10.26,Available,Clay,Igneous,0.35
+12/19/1999,12.6612116,-0.5683399,68.71,Australia,Burkina Faso,Far away,Fault C,Moderate,13.66,73.59,Not available,Loam,Metamorphic,7.19
+12/8/2017,-26.433666,29.460311,8.28,Asia,South Africa,Nearby,Fault C,Moderate,50.95,47.09,Available,Clay,Sedimentary,1.82
+4/21/1925,-6.8506475,-76.3440537,30.05,North America,Peru,Far away,Fault C,Low,21.55,20.07,Not available,Loam,Sedimentary,8.33
+6/22/1913,10.789771,-74.755201,4.52,Australia,Colombia,Far away,Fault A,Low,0.66,34.52,Not available,Loam,Igneous,8.96
+9/7/1949,37.9059243,58.4972596,97.77,North America,Turkmenistan,Far away,Fault B,Low,42.07,11.82,Not available,Loam,Igneous,6.59
+9/5/1938,-8.7183,115.5233,53.49,Europe,Indonesia,Nearby,Fault A,Low,2.04,77.12,Available,Loam,Igneous,9.25
+8/11/1980,49.336,4.0935629,53.98,North America,France,Far away,Fault C,Low,74.16,67.35,Not available,Clay,Sedimentary,3.77
+2/20/1994,46.4064605,-0.201305,11.88,Australia,France,Far away,Fault B,Low,63.83,86.32,Not available,Sandy,Metamorphic,2.86
+4/9/1984,7.7849087,2.1990763,22.7,South America,Benin,Far away,Fault C,Low,82.98,28.08,Available,Clay,Sedimentary,3.19
+3/26/2000,25.566821,-103.4295033,78.84,South America,Mexico,Far away,Fault A,Moderate,74.08,21.02,Available,Clay,Metamorphic,3.81
+6/22/1933,-6.7050629,111.6198661,9.33,Australia,Indonesia,Far away,Fault A,Low,51.21,60.66,Available,Clay,Metamorphic,3.94
+4/13/1928,35.995654,119.410103,64.33,Australia,China,Nearby,Fault A,High,78.26,27.1,Available,Loam,Metamorphic,7.57
+12/23/1922,39.1899002,-8.7267845,67.02,North America,Portugal,Nearby,Fault A,Low,6.99,43.19,Available,Loam,Igneous,0.73
+9/18/1914,-7.503663,110.271099,73.21,Europe,Indonesia,Far away,Fault C,Low,43.53,16.23,Available,Clay,Igneous,5.33
+10/27/2021,-31.946337,-65.180261,77.1,Europe,Argentina,Far away,Fault B,High,13.52,75.08,Available,Sandy,Igneous,6.0
+6/19/1998,30.864884,112.67271,86.11,Australia,China,Far away,Fault C,Low,85.18,10.67,Available,Sandy,Igneous,0.75
+7/30/1932,-6.3486919,106.0419754,62.02,North America,Indonesia,Far away,Fault A,Moderate,92.05,65.84,Not available,Loam,Sedimentary,5.93
+2/8/1953,29.531734,71.6445305,7.22,Africa,Pakistan,Far away,Fault C,Moderate,91.36,51.67,Not available,Loam,Metamorphic,9.41
+12/25/1971,2.18873,98.61185,98.07,Asia,Indonesia,Far away,Fault C,Moderate,78.79,78.07,Available,Loam,Igneous,4.63
+12/7/1940,46.689671,126.11386,95.9,Australia,China,Far away,Fault B,High,28.08,7.49,Available,Sandy,Metamorphic,8.06
+12/20/1998,-8.0154398,111.9462873,49.58,Asia,Indonesia,Nearby,Fault C,Low,35.77,49.83,Not available,Sandy,Metamorphic,2.72
+11/14/1939,-8.073071,113.1173534,92.97,Australia,Indonesia,Far away,Fault C,Low,57.62,30.17,Available,Loam,Sedimentary,3.06
+9/25/1997,48.967159,17.0279282,81.14,Australia,Czech Republic,Far away,Fault A,Moderate,57.41,38.12,Not available,Sandy,Sedimentary,7.94
+3/4/1997,29.561775,106.568971,79.22,Africa,China,Far away,Fault B,High,16.46,46.17,Not available,Clay,Sedimentary,4.66
+3/1/1920,14.0523794,-86.4478279,75.53,Africa,Honduras,Far away,Fault B,High,27.74,7.4,Available,Loam,Igneous,4.72
+1/12/1975,-3.2023658,-45.0373171,31.08,South America,Brazil,Nearby,Fault C,Moderate,40.84,32.34,Not available,Clay,Sedimentary,5.69
+6/2/1950,51.3854177,20.4867499,62.79,Africa,Poland,Nearby,Fault B,High,30.32,84.49,Available,Sandy,Sedimentary,9.54
+7/7/1998,35.8439572,136.1916906,31.03,South America,Japan,Nearby,Fault B,Moderate,16.46,56.64,Available,Loam,Igneous,0.6
+5/21/1970,21.957353,100.452547,22.11,Africa,China,Far away,Fault B,Moderate,3.91,19.16,Not available,Loam,Sedimentary,8.07
+12/12/1998,-18.8228804,-40.9050432,19.86,North America,Brazil,Far away,Fault B,Low,66.31,12.73,Not available,Sandy,Metamorphic,2.75
+9/23/1930,34.2456501,108.9877602,54.66,Australia,China,Nearby,Fault A,Moderate,52.92,45.52,Not available,Sandy,Sedimentary,5.58
+1/10/1933,25.112046,99.161761,52.66,North America,China,Far away,Fault B,Moderate,35.62,81.16,Not available,Clay,Sedimentary,3.54
+1/6/1992,36.0491557,120.2139413,25.98,Africa,China,Far away,Fault B,High,81.8,8.22,Available,Loam,Metamorphic,1.03
+2/3/2004,56.606956,26.7599531,8.57,Asia,Latvia,Nearby,Fault A,Low,89.46,19.25,Not available,Loam,Sedimentary,4.97
+5/19/2002,8.4864751,124.7352102,34.91,North America,Philippines,Nearby,Fault B,High,90.16,59.84,Available,Clay,Igneous,7.16
+6/29/1921,40.5974058,19.8082799,14.02,South America,Albania,Far away,Fault C,Low,87.48,4.22,Available,Loam,Sedimentary,8.48
+7/7/1913,62.0893368,28.9160917,21.85,South America,Finland,Far away,Fault C,Low,17.02,89.3,Not available,Clay,Sedimentary,0.66
+6/1/1906,10.1986882,-61.4377107,33.77,Europe,Trinidad and Tobago,Far away,Fault C,Moderate,41.15,95.97,Not available,Sandy,Sedimentary,9.37
+2/28/1983,25.635605,102.57997,19.97,Australia,China,Nearby,Fault C,Low,55.58,44.48,Not available,Clay,Sedimentary,5.39
+2/19/1946,51.6271163,4.9413027,12.6,Africa,Netherlands,Far away,Fault A,Moderate,70.32,94.41,Available,Sandy,Sedimentary,0.55
+3/12/1923,-6.2523005,106.8473377,34.06,Australia,Indonesia,Far away,Fault B,Moderate,3.27,3.57,Available,Loam,Metamorphic,8.23
+9/20/2006,52.1253899,29.3297633,11.52,Australia,Belarus,Far away,Fault B,Moderate,10.46,46.79,Not available,Clay,Igneous,0.24
+9/22/1993,59.615642,30.1696437,28.76,South America,Russia,Far away,Fault B,High,49.56,62.11,Not available,Loam,Metamorphic,1.81
+11/25/1934,55.7570915,37.6047016,77.77,Australia,Russia,Nearby,Fault C,High,74.58,67.57,Not available,Clay,Sedimentary,4.01
+2/9/1996,-34.7849517,-58.3848648,59.04,North America,Argentina,Far away,Fault B,High,77.39,59.72,Available,Loam,Metamorphic,3.12
+10/11/2010,43.0429124,1.9038837,74.92,Europe,France,Far away,Fault C,Moderate,97.03,58.9,Not available,Sandy,Sedimentary,4.99
+2/28/1967,-8.3693974,115.6273131,91.58,Australia,Indonesia,Far away,Fault A,Low,47.59,94.5,Not available,Clay,Igneous,5.31
+4/7/1957,34.29922,108.490475,53.53,Asia,China,Far away,Fault C,High,86.13,82.64,Available,Clay,Igneous,2.94
+10/18/2018,8.1176382,-80.593833,87.58,Africa,Panama,Far away,Fault A,Low,78.58,57.62,Available,Clay,Igneous,0.32
+4/9/1946,48.840109,2.586253,70.65,Africa,France,Nearby,Fault B,Moderate,33.41,62.0,Available,Clay,Metamorphic,6.03
+7/30/1915,27.272726,98.875784,34.04,South America,China,Nearby,Fault C,Low,19.13,85.47,Available,Sandy,Metamorphic,8.12
+6/13/2001,40.5566629,-8.5821839,85.35,Africa,Portugal,Far away,Fault C,Moderate,90.19,83.12,Not available,Loam,Sedimentary,4.5
+6/9/1933,43.03596,-82.1616,50.82,Asia,Canada,Nearby,Fault B,High,18.14,85.83,Not available,Clay,Sedimentary,0.21
+4/25/1917,13.401306,101.3658004,7.5,Australia,Thailand,Far away,Fault C,Moderate,17.6,59.89,Not available,Clay,Metamorphic,2.75
+9/21/1936,13.88953,43.9688,96.92,South America,Yemen,Nearby,Fault B,Moderate,73.58,79.1,Available,Loam,Igneous,9.86
+12/18/1939,-8.792325,120.960602,5.96,Africa,Indonesia,Far away,Fault B,High,74.61,11.92,Not available,Clay,Igneous,2.49
+4/22/1937,4.4942318,9.5617847,79.75,South America,Cameroon,Nearby,Fault B,Moderate,76.64,7.71,Available,Sandy,Igneous,1.79
+2/10/1971,-8.9444808,-35.2807624,1.98,Asia,Brazil,Nearby,Fault A,High,36.12,40.94,Not available,Loam,Metamorphic,0.52
+1/27/2009,46.4883734,15.9702079,32.46,North America,Slovenia,Nearby,Fault B,Moderate,91.52,6.05,Available,Loam,Sedimentary,0.49
+4/1/1994,-29.8990311,-51.0536949,47.81,Africa,Brazil,Nearby,Fault B,High,71.89,55.74,Available,Loam,Igneous,8.06
+7/4/2021,48.8480625,2.3300993,12.86,Europe,France,Nearby,Fault B,High,56.51,25.95,Not available,Sandy,Metamorphic,1.8
+10/22/1906,48.968713,117.773198,29.99,Asia,China,Nearby,Fault B,Moderate,48.72,86.9,Available,Clay,Igneous,1.85
+5/3/1962,33.0726276,131.8737341,41.7,South America,Japan,Nearby,Fault B,Moderate,45.69,29.85,Not available,Sandy,Sedimentary,8.85
+12/13/1904,33.9616991,113.2193846,31.84,South America,China,Nearby,Fault B,Low,37.99,78.09,Not available,Clay,Igneous,6.91
+4/22/1946,32.171553,35.097462,33.62,Asia,Palestinian Territory,Nearby,Fault C,Moderate,70.09,84.78,Available,Sandy,Metamorphic,5.55
+1/7/2020,66.5299478,66.6127258,75.22,Africa,Russia,Nearby,Fault A,Moderate,40.14,19.7,Not available,Sandy,Sedimentary,3.56
+2/28/1927,-25.2005643,-56.3978117,25.48,Europe,Paraguay,Nearby,Fault C,High,1.73,22.86,Available,Loam,Metamorphic,9.65
+7/2/1947,32.9454027,-117.2399868,57.94,South America,China,Nearby,Fault C,Low,33.49,97.24,Not available,Loam,Sedimentary,8.47
+7/8/1907,35.3517729,139.2972985,51.22,South America,Japan,Far away,Fault B,High,98.14,36.66,Not available,Sandy,Sedimentary,1.28
+1/25/1942,-12.2446158,44.5057388,72.46,North America,Comoros,Far away,Fault A,Low,17.55,79.17,Available,Sandy,Sedimentary,1.55
+8/5/1996,33.094679,100.596781,90.39,North America,China,Nearby,Fault C,Moderate,76.03,95.1,Not available,Sandy,Metamorphic,5.12
+2/12/1949,54.0433255,19.0193063,4.13,North America,Poland,Nearby,Fault C,Low,96.96,28.18,Not available,Sandy,Igneous,1.24
+8/5/1980,-7.7546,114.0625,40.05,Europe,Indonesia,Far away,Fault C,Low,90.05,1.87,Available,Loam,Metamorphic,3.55
+10/21/1979,25.1962025,-76.2406701,54.85,Europe,Bahamas,Far away,Fault A,Moderate,99.82,76.68,Available,Clay,Igneous,2.64
+7/21/1917,38.26667,21.83333,70.99,Asia,Greece,Far away,Fault A,High,60.75,23.48,Not available,Clay,Sedimentary,1.83
+9/14/1981,32.224808,110.228747,6.41,Asia,China,Far away,Fault A,Moderate,34.98,51.06,Available,Loam,Metamorphic,4.62
+5/16/1969,40.5047756,-8.529346,14.21,Africa,Portugal,Nearby,Fault A,High,23.58,92.45,Available,Sandy,Metamorphic,1.96
+9/28/1915,-5.6202503,-78.4695111,82.28,Africa,Peru,Far away,Fault C,Low,44.43,86.36,Available,Clay,Igneous,1.37
+5/29/1945,-23.5015338,-47.4525944,65.72,Africa,Brazil,Nearby,Fault C,High,23.33,10.25,Available,Sandy,Igneous,4.83
+10/22/1920,30.8783105,120.0907688,65.38,Europe,China,Far away,Fault A,Moderate,70.24,50.87,Not available,Clay,Metamorphic,5.82
+8/22/1964,-11.9239743,-76.6600415,96.22,Australia,Peru,Nearby,Fault C,Low,20.03,31.23,Available,Sandy,Metamorphic,5.66
+10/8/2015,15.4601543,101.1949191,1.13,South America,Thailand,Nearby,Fault A,Low,88.68,13.38,Available,Loam,Metamorphic,5.78
+6/25/2007,37.1518793,138.3591194,85.55,Africa,Japan,Far away,Fault B,Moderate,25.55,17.54,Available,Clay,Metamorphic,9.81
+3/3/1982,5.91677,7.67615,34.9,Africa,Nigeria,Far away,Fault C,Moderate,85.32,46.34,Not available,Sandy,Igneous,5.14
+8/9/1991,-16.2382608,-44.4370606,19.96,Europe,Brazil,Far away,Fault B,Moderate,6.88,99.52,Available,Sandy,Metamorphic,4.76
+1/16/1955,56.0396207,14.1636617,6.86,Europe,Sweden,Nearby,Fault C,Moderate,78.68,80.61,Available,Loam,Sedimentary,7.59
+10/2/1987,55.4787765,54.8619269,53.13,North America,Russia,Nearby,Fault A,Moderate,16.87,70.46,Not available,Clay,Igneous,7.06
+6/26/2001,41.21966,118.799497,27.6,Australia,China,Nearby,Fault C,Low,54.96,19.88,Available,Sandy,Metamorphic,6.86
+3/15/1977,13.1191133,-86.9949372,3.84,Australia,Honduras,Far away,Fault A,Moderate,19.86,33.83,Available,Sandy,Sedimentary,6.57
+6/7/1949,34.620202,112.453926,40.08,Asia,China,Nearby,Fault B,High,19.37,7.82,Available,Loam,Igneous,5.04
+11/6/1906,57.6055534,12.2028691,92.73,South America,Sweden,Nearby,Fault A,High,22.52,84.48,Available,Clay,Sedimentary,3.45
+2/10/2018,41.3934697,19.9165644,84.2,Europe,Albania,Nearby,Fault B,Moderate,20.66,0.79,Not available,Sandy,Igneous,1.06
+3/9/1900,45.2188634,17.3811959,85.06,South America,Croatia,Nearby,Fault A,Moderate,32.83,47.07,Available,Clay,Sedimentary,9.1
+12/14/1935,25.431829,119.015255,59.2,Australia,China,Far away,Fault C,Low,62.2,62.26,Not available,Loam,Sedimentary,6.22
+2/28/1948,54.147514,45.2217972,74.68,North America,Russia,Nearby,Fault C,Low,20.73,29.28,Not available,Loam,Metamorphic,6.88
+5/21/1962,45.141789,124.825117,38.41,Europe,China,Far away,Fault C,High,48.57,76.37,Available,Loam,Igneous,2.79
+12/29/1919,-8.512723,115.0906448,82.31,Europe,Indonesia,Nearby,Fault C,High,15.92,44.4,Not available,Loam,Sedimentary,4.21
+1/1/2022,-30.2196952,-51.0985192,4.73,South America,Brazil,Nearby,Fault A,Moderate,45.77,99.24,Not available,Sandy,Sedimentary,6.38
+5/19/1924,38.7333101,141.5437532,94.65,Asia,Japan,Nearby,Fault C,Low,85.18,33.88,Available,Clay,Sedimentary,5.71
+5/26/1952,-8.6678,122.0326,49.72,Africa,Indonesia,Far away,Fault C,Low,34.66,31.53,Available,Sandy,Metamorphic,9.37
+9/9/2007,35.3922378,-97.4273195,48.5,Europe,United States,Far away,Fault C,High,33.88,88.76,Available,Clay,Sedimentary,1.71
+11/28/2004,63.1446335,14.7703198,55.31,North America,Sweden,Nearby,Fault A,High,58.04,65.39,Available,Clay,Igneous,0.13
+3/16/1901,-9.8232056,-77.6493992,78.34,Asia,Peru,Nearby,Fault B,High,94.23,66.21,Not available,Sandy,Sedimentary,3.94
+8/28/1972,-13.2583689,-72.2642679,5.52,Australia,Peru,Far away,Fault B,Low,71.7,37.99,Available,Clay,Metamorphic,6.87
+1/12/2005,6.4359224,124.9997742,31.31,South America,Philippines,Nearby,Fault A,Low,85.68,40.19,Available,Sandy,Igneous,8.32
+1/28/1965,43.617445,124.139465,89.57,Australia,China,Nearby,Fault C,Moderate,98.11,22.56,Available,Sandy,Metamorphic,3.94
+4/30/1955,22.116224,110.590442,88.91,Europe,China,Far away,Fault A,Low,31.12,31.19,Not available,Loam,Sedimentary,1.16
+5/8/1980,16.0072833,-61.7159101,94.2,North America,Guadeloupe,Nearby,Fault C,High,79.94,32.65,Available,Clay,Igneous,7.15
+12/25/1908,52.0264758,21.8107747,6.67,North America,Poland,Far away,Fault A,High,20.9,96.77,Available,Loam,Sedimentary,8.63
+1/25/1995,41.1604713,-7.7452871,76.8,North America,Portugal,Far away,Fault A,Low,11.52,41.48,Available,Sandy,Metamorphic,7.62
+4/29/1928,35.5770451,51.4624642,22.93,Africa,Iran,Far away,Fault C,Moderate,52.02,63.03,Available,Loam,Metamorphic,8.4
+5/18/1935,41.2257829,-8.4489073,48.5,Asia,Portugal,Nearby,Fault A,Moderate,24.0,26.54,Not available,Clay,Metamorphic,7.65
+2/2/1976,7.9187344,125.3297787,30.6,Africa,Philippines,Far away,Fault C,Low,83.02,18.77,Not available,Clay,Igneous,1.28
+11/17/1960,36.0887208,9.3645335,8.03,Australia,Tunisia,Far away,Fault A,Moderate,58.89,10.75,Available,Clay,Metamorphic,4.51
+2/1/1972,14.5643332,121.1334952,57.97,Asia,Philippines,Far away,Fault A,Moderate,50.89,19.64,Not available,Loam,Igneous,9.66
+8/10/1992,6.61476,8.0410634,34.14,South America,Nigeria,Far away,Fault B,Low,63.83,97.17,Available,Sandy,Metamorphic,1.41
+3/27/1910,65.0588742,25.4549855,14.71,Europe,Finland,Far away,Fault C,Moderate,28.22,82.84,Not available,Clay,Sedimentary,9.65
+5/31/2019,14.8221783,120.2851808,46.47,North America,Philippines,Far away,Fault C,High,74.6,23.17,Not available,Loam,Metamorphic,9.24
+6/4/1950,39.9915265,19.9154479,93.23,Australia,Albania,Nearby,Fault C,Moderate,58.68,14.43,Available,Clay,Igneous,6.36
+5/29/1990,38.2514148,20.6471688,32.03,North America,Greece,Nearby,Fault C,Moderate,47.88,63.35,Available,Loam,Sedimentary,4.97
+2/6/1981,10.4853153,5.1458131,52.51,Africa,Nigeria,Nearby,Fault A,Moderate,6.41,96.88,Not available,Clay,Metamorphic,1.98
+5/22/1987,43.4829443,44.5893304,34.76,Africa,Russia,Far away,Fault C,High,76.83,42.79,Not available,Loam,Sedimentary,3.12
+4/2/1916,53.1387595,-7.0625888,51.33,Africa,Ireland,Nearby,Fault C,Low,46.82,27.87,Not available,Sandy,Sedimentary,4.22
+1/18/1997,42.849628,-71.1049505,72.41,South America,China,Far away,Fault C,High,63.56,33.02,Not available,Clay,Metamorphic,3.95
+10/28/1957,53.3806398,-6.5028415,47.96,Europe,Ireland,Far away,Fault C,Moderate,36.49,65.97,Available,Loam,Metamorphic,6.51
+8/23/1940,35.0780152,134.041335,30.55,Australia,Japan,Nearby,Fault A,Low,36.43,39.32,Not available,Sandy,Sedimentary,5.31
+10/25/1998,54.3817334,18.2912258,63.48,North America,Poland,Far away,Fault A,High,24.14,40.07,Not available,Loam,Sedimentary,7.68
+10/22/1967,-7.9062121,112.0267712,56.87,Africa,Indonesia,Nearby,Fault B,Moderate,64.86,88.53,Not available,Clay,Sedimentary,1.88
+12/15/2017,52.066952,5.2407431,50.51,Australia,Netherlands,Far away,Fault C,Moderate,80.48,4.44,Available,Loam,Igneous,3.19
+4/8/1923,51.7864657,16.667577,0.74,Europe,Poland,Nearby,Fault A,High,84.46,66.45,Not available,Sandy,Igneous,2.48
+10/29/1974,44.9248529,13.8198739,10.87,Asia,Croatia,Nearby,Fault A,Low,90.62,54.8,Available,Loam,Metamorphic,7.82
+8/17/1974,6.1816141,6.5303102,86.23,Asia,Nigeria,Far away,Fault C,Moderate,28.33,11.88,Available,Clay,Metamorphic,2.28
+7/23/1913,56.7962374,45.4671248,58.99,Australia,Russia,Nearby,Fault C,High,99.2,69.56,Available,Sandy,Igneous,5.38
+1/27/1940,-21.2922593,-50.3407923,59.57,South America,Brazil,Nearby,Fault A,Moderate,79.0,26.54,Available,Sandy,Metamorphic,7.03
+5/10/1981,53.0651548,20.3482376,64.02,Asia,Poland,Nearby,Fault B,Moderate,37.11,63.74,Available,Clay,Metamorphic,0.89
+11/1/2016,-6.4712737,110.8171082,50.64,North America,Indonesia,Far away,Fault A,High,49.53,89.08,Available,Clay,Sedimentary,9.12
+4/28/1952,51.4731906,17.6308034,73.6,Asia,Poland,Nearby,Fault B,Low,44.08,70.87,Not available,Clay,Igneous,7.62
+8/18/2008,-6.898384,111.885002,25.97,Asia,Indonesia,Far away,Fault C,High,37.97,28.64,Available,Sandy,Igneous,2.96
+3/12/1995,35.837344,103.519169,43.24,North America,China,Far away,Fault A,High,80.56,4.19,Available,Loam,Metamorphic,2.19
+10/7/1955,32.92312,115.805297,22.31,Europe,China,Nearby,Fault A,Low,66.61,90.44,Not available,Sandy,Igneous,7.09
+2/5/1979,50.511083,30.7909,67.1,Australia,Ukraine,Nearby,Fault A,Low,13.4,59.48,Available,Clay,Igneous,2.57
+11/11/1996,52.2960003,35.4190083,95.13,North America,Russia,Nearby,Fault B,High,73.25,51.56,Available,Sandy,Igneous,4.78
+8/21/2002,54.8940073,65.0894647,38.22,Europe,Russia,Nearby,Fault A,Moderate,9.64,11.02,Available,Sandy,Metamorphic,4.68
+6/24/1984,21.958688,103.8854007,42.39,North America,Vietnam,Far away,Fault A,High,36.65,70.88,Available,Loam,Sedimentary,1.58
+12/6/1957,52.7567887,25.1531057,43.07,Australia,Belarus,Far away,Fault B,Low,78.09,88.13,Available,Sandy,Igneous,5.18
+10/9/1979,26.6519555,49.9123454,33.9,North America,Saudi Arabia,Far away,Fault B,Moderate,34.78,14.25,Available,Clay,Igneous,7.17
+5/12/1942,-5.85,105.75,39.43,Asia,Indonesia,Far away,Fault A,Moderate,28.01,28.23,Not available,Loam,Igneous,9.31
+9/24/1988,32.1733,35.53005,8.52,Asia,Palestinian Territory,Nearby,Fault A,Low,63.83,79.12,Available,Sandy,Igneous,0.58
+2/14/1949,37.0507794,22.0083727,94.76,Europe,Greece,Far away,Fault A,Low,51.18,34.9,Not available,Clay,Igneous,7.76
+2/18/1954,-8.1649,124.668,87.3,Australia,Indonesia,Far away,Fault A,Moderate,32.34,96.97,Not available,Clay,Metamorphic,6.55
+8/12/1978,52.3738553,15.9570211,58.03,North America,Poland,Nearby,Fault A,High,39.82,46.33,Available,Loam,Sedimentary,8.1
+11/15/1991,13.7399629,108.0954351,55.12,Europe,Vietnam,Far away,Fault A,High,31.81,71.78,Available,Sandy,Igneous,8.13
+2/28/1936,-27.5703548,-48.62059,43.52,Africa,Brazil,Nearby,Fault C,Moderate,11.03,32.11,Available,Clay,Metamorphic,0.54
+10/15/1930,0.186066,30.4512086,68.57,Asia,Uganda,Far away,Fault C,High,50.96,99.86,Not available,Sandy,Metamorphic,3.06
+1/11/1953,42.654146,122.749282,56.57,South America,China,Far away,Fault C,Moderate,51.51,94.36,Not available,Clay,Igneous,9.89
+9/1/1970,29.56492,121.52229,86.35,Asia,China,Nearby,Fault C,Low,74.98,75.14,Available,Loam,Sedimentary,9.49
+4/16/1909,4.566637,-75.75012,50.34,North America,Colombia,Nearby,Fault A,Low,49.3,56.07,Not available,Loam,Metamorphic,6.35
+8/16/1999,34.8190348,36.1192307,41.76,Australia,Syria,Far away,Fault B,High,14.81,47.94,Available,Clay,Igneous,4.96
+3/4/1938,-6.9325697,109.6579791,57.46,Australia,Indonesia,Far away,Fault B,Moderate,34.16,78.54,Available,Sandy,Sedimentary,8.53
+2/19/1927,59.4226704,17.8334683,14.5,Africa,Sweden,Far away,Fault A,High,38.65,3.22,Not available,Clay,Metamorphic,0.99
+9/9/1991,38.2892237,23.8248958,70.08,Europe,Greece,Far away,Fault B,Moderate,0.62,53.74,Not available,Sandy,Igneous,4.01
+12/16/1948,50.7643672,21.6390801,26.86,South America,Poland,Nearby,Fault C,High,83.4,50.9,Available,Loam,Sedimentary,4.89
+10/27/2001,38.7146303,-9.414533,76.52,Africa,Portugal,Nearby,Fault C,Low,99.58,65.29,Available,Loam,Igneous,9.49
+2/22/1992,26.2448015,-81.8115051,24.57,South America,United States,Far away,Fault A,Moderate,59.33,92.04,Available,Loam,Igneous,3.36
+5/19/1982,36.7144184,119.2029497,13.16,Europe,China,Nearby,Fault A,Low,44.54,83.87,Available,Sandy,Metamorphic,7.92
+9/26/1988,27.294359,61.9989579,58.47,Asia,Iran,Nearby,Fault A,Moderate,16.08,83.24,Not available,Sandy,Metamorphic,9.6
+4/30/1979,-23.0886496,-47.2089525,6.93,North America,Brazil,Far away,Fault C,High,75.67,23.9,Not available,Loam,Sedimentary,2.39
+4/14/1956,24.594229,121.8533264,40.52,Europe,China,Far away,Fault C,Moderate,37.09,33.85,Not available,Clay,Metamorphic,5.99
+8/24/1912,-21.3407385,-47.7352517,13.94,Europe,Brazil,Far away,Fault A,Low,10.49,72.7,Available,Clay,Metamorphic,7.08
+5/11/1962,41.2177603,19.969783,3.78,Asia,Albania,Far away,Fault A,Low,47.21,99.05,Not available,Clay,Metamorphic,9.51
+5/3/1938,7.5273576,125.6239227,75.15,Europe,Philippines,Far away,Fault A,High,56.24,18.09,Not available,Loam,Metamorphic,1.83
+4/30/1950,26.05547,119.239406,40.13,North America,China,Far away,Fault C,Moderate,27.59,39.41,Not available,Sandy,Sedimentary,7.76
+8/7/2016,38.0099999,67.7914041,58.93,North America,Uzbekistan,Nearby,Fault C,Moderate,9.88,99.51,Available,Loam,Sedimentary,1.27
+6/23/1939,32.3907895,119.4331388,64.93,North America,China,Nearby,Fault A,High,98.3,96.62,Not available,Clay,Metamorphic,2.01
+6/28/2005,49.116169,6.1807997,21.32,South America,France,Nearby,Fault C,Low,33.85,12.97,Not available,Loam,Sedimentary,7.68
+8/8/1922,42.4635206,21.4694011,28.04,Asia,Kosovo,Nearby,Fault C,High,52.99,29.01,Available,Sandy,Igneous,2.86
+4/27/1962,34.9565646,135.7023712,26.31,Australia,Japan,Nearby,Fault B,High,58.52,90.47,Not available,Clay,Metamorphic,8.78
+4/27/1924,36.9564827,118.1147469,79.72,Asia,China,Nearby,Fault C,High,15.4,98.36,Not available,Loam,Metamorphic,1.29
+9/30/1954,40.2676183,44.6810797,22.68,Australia,Armenia,Nearby,Fault B,Low,40.98,68.06,Available,Sandy,Sedimentary,0.59
+5/7/1964,27.615202,113.870729,5.67,Europe,China,Far away,Fault C,Moderate,26.75,66.92,Not available,Loam,Igneous,0.19
+10/10/1906,38.2342865,140.3509794,20.65,Europe,Japan,Far away,Fault C,High,55.49,45.98,Available,Loam,Metamorphic,8.31
+10/6/1993,51.9922595,17.8705418,11.23,Europe,Poland,Nearby,Fault B,Moderate,16.23,27.45,Available,Clay,Igneous,0.27
+12/30/1974,-23.2245912,-52.7670021,42.74,Asia,Brazil,Far away,Fault C,Moderate,58.63,25.41,Not available,Loam,Sedimentary,6.76
+11/23/2009,21.9327554,-79.4366324,2.51,South America,Cuba,Far away,Fault C,High,73.89,51.99,Available,Loam,Igneous,2.98
+6/5/1923,5.1550917,8.0247005,34.13,South America,Nigeria,Nearby,Fault A,High,6.27,42.22,Not available,Sandy,Igneous,3.74
+3/18/1941,53.6557845,41.6873842,77.38,Africa,Russia,Far away,Fault C,Low,6.15,30.64,Not available,Loam,Igneous,3.71
+3/7/1959,36.1008689,139.5772452,22.19,Australia,Japan,Nearby,Fault C,Moderate,84.64,59.7,Not available,Loam,Igneous,7.67
+5/21/1915,41.3351832,-8.6022276,92.62,Australia,Portugal,Far away,Fault B,Moderate,25.62,15.74,Not available,Loam,Metamorphic,6.41
+9/14/1939,-6.9011055,113.7543578,2.0,Asia,Indonesia,Far away,Fault A,Moderate,62.18,36.69,Not available,Sandy,Igneous,0.93
+12/3/1958,37.5544156,56.9267259,90.33,South America,Iran,Far away,Fault C,High,41.35,26.8,Not available,Sandy,Metamorphic,6.4
+11/7/2019,49.6629527,18.2269255,38.56,Australia,Czech Republic,Nearby,Fault C,Low,22.17,68.81,Not available,Clay,Metamorphic,4.71
+6/9/1904,55.6383075,22.938485,58.51,Europe,Lithuania,Far away,Fault C,Low,42.87,39.41,Available,Clay,Metamorphic,4.34
+11/18/1938,41.0640191,-7.3141388,40.88,South America,Portugal,Far away,Fault C,High,29.0,10.18,Available,Clay,Sedimentary,4.95
+1/9/1928,34.5235452,43.7190392,27.87,Europe,Iraq,Far away,Fault C,Low,32.74,35.26,Not available,Clay,Metamorphic,4.35
+1/13/2010,33.5570691,35.372948,49.89,Europe,Lebanon,Nearby,Fault B,High,53.03,13.31,Available,Sandy,Igneous,6.11
+12/2/1969,47.613861,6.785553,85.22,North America,France,Nearby,Fault B,Moderate,25.99,43.83,Not available,Sandy,Igneous,8.37
+11/9/1919,-26.8327412,-65.2299908,86.31,Africa,Argentina,Nearby,Fault A,Low,75.68,63.4,Available,Clay,Igneous,8.29
+7/23/2016,31.627447,121.022581,21.43,South America,China,Nearby,Fault C,Moderate,16.14,54.87,Available,Loam,Sedimentary,2.49
+2/9/1994,49.9513027,20.3412605,37.66,Australia,Poland,Nearby,Fault B,Low,21.18,88.79,Not available,Sandy,Sedimentary,5.96
+11/29/1950,20.585863,-100.384181,88.34,Australia,Mexico,Nearby,Fault B,Low,95.33,16.47,Available,Sandy,Igneous,5.38
+8/11/1948,44.840524,82.353656,71.64,North America,China,Nearby,Fault C,Moderate,65.25,7.44,Available,Sandy,Metamorphic,2.81
+2/17/1902,11.2363822,123.709249,9.93,North America,Philippines,Far away,Fault A,Low,67.34,60.86,Available,Loam,Sedimentary,8.89
+2/23/1962,36.7904088,138.7920847,70.55,South America,Japan,Nearby,Fault A,Low,17.44,33.25,Available,Sandy,Sedimentary,4.97
+1/4/1989,53.0803781,85.6747154,1.34,Australia,Russia,Far away,Fault B,Low,97.37,79.76,Not available,Loam,Metamorphic,7.46
+9/7/1900,42.4573467,18.6442835,95.29,Europe,Montenegro,Nearby,Fault A,Moderate,6.86,1.01,Available,Sandy,Sedimentary,3.72
+12/11/1994,36.4550658,10.7154228,33.74,Asia,Tunisia,Far away,Fault B,Moderate,37.53,22.7,Available,Sandy,Igneous,1.12
+11/20/1987,50.5699572,17.1493818,14.48,Africa,Poland,Nearby,Fault A,Low,77.92,27.19,Not available,Clay,Igneous,6.18
+2/3/1994,-7.9128478,39.6647178,4.47,South America,Tanzania,Far away,Fault B,Moderate,55.64,14.64,Not available,Clay,Sedimentary,6.98
+1/28/1980,48.9746444,17.6475832,57.27,Australia,Czech Republic,Far away,Fault A,Low,95.95,8.81,Not available,Clay,Sedimentary,7.36
+10/24/1958,-18.4097245,-49.2162908,13.9,Australia,Brazil,Nearby,Fault B,High,40.4,63.38,Not available,Clay,Sedimentary,4.88
+12/18/1956,30.511343,-9.6536246,4.58,Asia,Morocco,Nearby,Fault C,Low,92.59,79.37,Not available,Loam,Igneous,9.22
+1/21/1920,37.5092473,140.9723283,47.65,Africa,Japan,Far away,Fault A,High,99.69,66.01,Available,Sandy,Igneous,3.34
+12/27/1927,23.1497287,113.3227193,66.9,South America,China,Far away,Fault B,Low,25.18,59.72,Not available,Loam,Sedimentary,7.99
+2/13/1985,31.7975831,14.053676,58.18,South America,Libya,Far away,Fault B,Low,22.92,5.0,Available,Loam,Sedimentary,9.0
+3/14/1971,-7.1973389,106.8502879,28.93,Africa,Indonesia,Far away,Fault B,High,98.65,42.05,Available,Loam,Metamorphic,3.2
+11/20/1917,4.9640933,36.4878241,81.3,Australia,Ethiopia,Nearby,Fault B,Moderate,9.29,55.98,Available,Loam,Metamorphic,7.92
+10/5/1993,43.7367435,16.9849984,98.19,Africa,Bosnia and Herzegovina,Far away,Fault C,Low,98.91,88.41,Not available,Loam,Metamorphic,3.85
+4/15/1908,-6.8447302,108.2427764,46.74,Africa,Indonesia,Far away,Fault B,High,80.5,44.78,Not available,Sandy,Sedimentary,4.43
+12/29/1962,40.039377,48.9202533,14.33,Australia,Azerbaijan,Nearby,Fault A,High,63.64,82.79,Available,Clay,Metamorphic,5.3
+12/13/1940,26.5608911,31.7447913,95.04,North America,Egypt,Far away,Fault B,Moderate,13.28,42.27,Available,Clay,Igneous,0.56
+12/24/1937,8.6286447,-13.2158557,25.45,Europe,Sierra Leone,Far away,Fault A,High,29.65,88.34,Available,Clay,Igneous,7.39
+7/20/1987,19.214452,110.019489,41.03,Australia,China,Nearby,Fault A,Moderate,86.48,7.91,Not available,Sandy,Sedimentary,6.14
+1/26/2018,47.772714,-1.813332,71.32,South America,France,Nearby,Fault C,High,89.38,5.87,Not available,Sandy,Metamorphic,7.74
+1/2/1917,-7.2524177,112.746823,86.12,North America,Indonesia,Far away,Fault C,Moderate,46.24,9.54,Not available,Sandy,Igneous,4.62
+4/21/1994,50.284234,36.9329429,9.49,Africa,Ukraine,Far away,Fault C,Moderate,10.28,35.33,Available,Sandy,Metamorphic,9.95
+4/9/1989,49.9606288,13.6430342,39.31,Australia,Czech Republic,Far away,Fault B,Moderate,72.85,80.4,Not available,Loam,Sedimentary,6.6
+11/17/1982,55.6833424,12.5616448,70.35,Africa,Denmark,Nearby,Fault C,Low,26.36,92.28,Available,Loam,Metamorphic,9.65
+3/30/1917,29.696195,106.79542,49.18,North America,China,Nearby,Fault C,Low,44.88,8.81,Not available,Clay,Metamorphic,1.43
+11/7/1995,20.9069092,-77.2807423,53.59,Africa,Cuba,Nearby,Fault A,High,35.92,24.71,Not available,Sandy,Sedimentary,9.54
+10/4/1965,44.2484,111.73948,79.73,South America,China,Nearby,Fault B,Low,39.82,20.42,Available,Loam,Sedimentary,0.45
+6/5/2015,-19.940272,-40.8980767,86.22,Australia,Brazil,Nearby,Fault A,High,40.74,66.19,Not available,Loam,Sedimentary,9.06
+1/28/1940,49.10469,-97.55961,77.33,Asia,Canada,Nearby,Fault C,High,74.41,55.04,Available,Loam,Metamorphic,0.91
+12/30/1918,29.584292,111.380014,23.2,Australia,China,Far away,Fault B,Low,90.02,88.65,Not available,Clay,Igneous,7.83
+2/13/1980,41.2469904,-7.8087614,59.45,Australia,Portugal,Far away,Fault C,Low,98.61,80.78,Not available,Loam,Sedimentary,9.06
+10/12/1943,-19.9672706,-44.2011793,40.06,Australia,Brazil,Nearby,Fault C,Low,9.0,1.11,Available,Sandy,Metamorphic,5.08
+11/7/1935,48.048396,125.086804,14.2,Asia,China,Far away,Fault C,High,91.9,67.81,Not available,Sandy,Igneous,5.76
+8/13/1905,39.5712613,45.9365615,87.12,Asia,Armenia,Nearby,Fault C,High,61.2,0.59,Not available,Clay,Metamorphic,2.31
+11/5/1979,-7.3058984,111.9149875,38.74,Australia,Indonesia,Nearby,Fault A,High,13.0,55.27,Not available,Clay,Metamorphic,9.72
+10/14/1996,17.5385975,120.6662294,39.43,Africa,Philippines,Far away,Fault A,High,70.04,0.74,Available,Clay,Sedimentary,9.83
+1/28/1917,7.2754704,6.107645,80.59,Africa,Nigeria,Far away,Fault C,Low,70.37,58.29,Available,Loam,Sedimentary,1.96
+3/4/1909,46.0036703,14.5753497,74.05,Australia,Slovenia,Nearby,Fault C,Low,72.33,87.78,Not available,Loam,Igneous,7.52
+7/8/1985,29.037007,100.298403,5.79,Africa,China,Far away,Fault B,High,2.5,60.91,Not available,Sandy,Metamorphic,9.54
+8/9/2009,55.650711,37.39423,68.2,North America,Russia,Nearby,Fault B,Low,38.47,48.32,Available,Sandy,Igneous,0.56
+2/11/1992,8.287423,100.1927389,19.49,Africa,Thailand,Nearby,Fault B,High,8.92,1.92,Available,Sandy,Igneous,4.02
+11/7/1974,32.203257,106.339791,6.0,Australia,China,Far away,Fault A,Low,55.88,42.02,Not available,Sandy,Metamorphic,8.32
+1/20/1988,24.625561,118.431541,67.86,Australia,China,Nearby,Fault B,Low,59.3,69.39,Not available,Loam,Igneous,3.6
+6/8/1934,48.8537451,2.53823,36.94,Europe,France,Far away,Fault C,Moderate,7.42,81.53,Available,Sandy,Metamorphic,6.27
+8/4/2019,42.319384,-85.1872878,77.74,North America,United States,Far away,Fault C,Low,72.83,97.33,Not available,Clay,Sedimentary,9.46
+9/15/1904,-8.5335451,-172.5165543,33.34,Africa,Tokelau,Far away,Fault B,High,18.87,49.25,Not available,Clay,Igneous,0.26
+3/5/2014,39.983599,98.90327,50.34,Europe,China,Far away,Fault B,Moderate,9.05,31.05,Not available,Clay,Sedimentary,2.36
+5/7/2002,-6.8852308,106.9007656,91.99,Europe,Indonesia,Far away,Fault A,Moderate,3.1,0.99,Available,Loam,Metamorphic,0.66
+4/8/1994,26.319938,113.810157,1.74,Asia,China,Nearby,Fault C,High,70.34,50.67,Available,Loam,Sedimentary,0.14
+11/22/1942,-21.9366813,15.8613233,53.89,Asia,Namibia,Nearby,Fault A,Moderate,25.67,3.1,Available,Sandy,Metamorphic,6.34
+4/11/1974,14.7634494,49.6044141,23.04,North America,Yemen,Far away,Fault B,High,53.61,20.9,Available,Sandy,Metamorphic,3.91
+3/27/1922,53.3115925,83.9216908,24.87,Asia,Russia,Far away,Fault C,Low,86.86,13.09,Available,Loam,Metamorphic,5.48
+1/6/1976,0.4994734,101.4095405,90.98,Australia,Indonesia,Far away,Fault B,High,69.92,46.45,Available,Loam,Metamorphic,7.62
+1/23/2004,51.2383684,22.235175,96.7,South America,Poland,Nearby,Fault A,Low,30.25,28.21,Available,Sandy,Sedimentary,8.33
+4/1/2001,-6.6772938,111.540868,25.76,Europe,Indonesia,Far away,Fault C,High,25.15,53.31,Available,Loam,Igneous,8.75
+4/17/1919,29.0300404,111.7227409,5.55,Europe,China,Nearby,Fault A,Moderate,69.69,16.28,Available,Loam,Sedimentary,3.78
+3/12/1922,56.8813564,56.570105,86.87,South America,Russia,Nearby,Fault C,Low,99.88,27.87,Not available,Sandy,Igneous,1.12
+2/21/1946,32.477977,35.253787,95.74,Asia,Palestinian Territory,Far away,Fault C,Moderate,52.53,21.85,Available,Clay,Sedimentary,3.18
+12/10/1915,16.1293948,120.5372119,56.99,Asia,Philippines,Nearby,Fault B,High,40.46,34.04,Not available,Loam,Metamorphic,0.32
+9/15/2020,29.978387,121.449972,0.62,Australia,China,Far away,Fault A,Moderate,71.24,48.3,Not available,Clay,Sedimentary,9.06
+1/19/1906,13.8135951,100.4227992,8.52,Australia,Thailand,Nearby,Fault B,Moderate,9.3,64.14,Available,Loam,Metamorphic,3.93
+1/18/2001,-1.2782708,-80.4243066,84.8,Asia,Ecuador,Nearby,Fault C,High,4.1,19.33,Not available,Clay,Metamorphic,8.48
+9/22/1975,30.311056,112.255583,5.46,Africa,China,Far away,Fault C,High,10.03,97.27,Not available,Clay,Sedimentary,9.76
+3/4/1928,37.9706037,22.780253,31.65,North America,Greece,Far away,Fault C,Moderate,98.81,85.78,Available,Sandy,Igneous,6.81
+11/26/1963,40.4531669,50.089775,99.21,South America,Azerbaijan,Far away,Fault C,Moderate,75.95,18.53,Available,Sandy,Metamorphic,4.08
+3/15/1979,11.144989,123.6441498,90.47,Australia,Philippines,Nearby,Fault B,High,93.91,54.1,Not available,Clay,Sedimentary,0.9
+5/9/2009,-8.264058,112.9475835,90.37,Europe,Indonesia,Nearby,Fault C,Moderate,42.63,20.23,Not available,Loam,Igneous,9.49
+5/9/2003,36.0359016,139.7192223,48.27,North America,Japan,Far away,Fault C,High,18.07,26.7,Available,Loam,Metamorphic,7.79
+7/4/2021,22.7129122,-83.0415078,4.58,North America,Cuba,Far away,Fault B,Moderate,51.25,53.12,Not available,Clay,Igneous,4.96
+7/3/1919,23.10848,-82.2474648,81.99,Australia,Cuba,Far away,Fault B,High,93.31,45.76,Not available,Loam,Metamorphic,2.8
+6/2/1940,46.2433699,14.4192223,48.34,Australia,Slovenia,Nearby,Fault C,Low,33.33,51.56,Available,Loam,Sedimentary,8.2
+5/28/1928,48.7277622,100.7724281,23.83,Africa,Mongolia,Nearby,Fault B,Low,76.03,11.01,Available,Sandy,Igneous,0.57
+9/19/1931,-51.6977129,-57.8516627,11.62,Asia,Falkland Islands,Nearby,Fault C,High,2.82,35.83,Not available,Loam,Igneous,7.88
+7/11/1925,-6.813931,108.1784455,73.27,Australia,Indonesia,Nearby,Fault C,Low,65.86,42.68,Available,Sandy,Igneous,5.06
+7/22/2006,30.74774,67.70846,8.11,South America,Pakistan,Nearby,Fault B,Low,24.02,81.86,Available,Loam,Sedimentary,9.17
+4/26/1911,20.2019487,-87.4337425,90.06,South America,Mexico,Nearby,Fault A,Moderate,47.76,14.99,Not available,Clay,Metamorphic,8.62
+12/3/1951,14.880403,120.7063932,71.18,South America,Philippines,Far away,Fault B,Low,64.07,97.05,Available,Sandy,Metamorphic,9.65
+4/13/2007,51.6861013,5.2933198,40.42,Europe,Netherlands,Nearby,Fault B,Moderate,9.42,29.47,Available,Sandy,Sedimentary,0.97
+3/25/1916,11.7907511,102.8773712,24.68,North America,Thailand,Far away,Fault C,Low,56.74,43.93,Available,Loam,Igneous,9.96
+2/20/1958,-8.2885,112.6884,50.76,South America,Indonesia,Nearby,Fault C,Low,46.3,67.92,Not available,Clay,Metamorphic,7.39
+5/17/1999,45.7451347,4.8252311,55.72,Africa,France,Nearby,Fault B,Moderate,56.28,9.96,Available,Loam,Metamorphic,5.09
+10/29/1940,50.2837307,2.7425682,9.51,Europe,France,Far away,Fault B,High,3.56,19.7,Not available,Clay,Metamorphic,9.25
+11/2/1998,9.3730352,122.7631154,91.16,Europe,Philippines,Far away,Fault C,Moderate,3.93,41.46,Not available,Clay,Metamorphic,7.93
+7/12/1984,-8.557437,114.0369075,28.88,Europe,Indonesia,Nearby,Fault C,Low,71.07,23.87,Not available,Sandy,Metamorphic,2.87
+8/27/1971,-31.476524,-64.2257559,51.95,North America,Argentina,Nearby,Fault C,Moderate,81.1,71.15,Not available,Sandy,Igneous,4.96
+3/4/2013,3.8480325,11.5020752,12.22,South America,Cameroon,Far away,Fault A,High,87.31,83.96,Available,Sandy,Igneous,9.51
+9/11/2004,38.103487,117.742101,1.88,Africa,China,Far away,Fault A,Low,98.1,13.83,Available,Loam,Metamorphic,8.35
+2/28/1980,37.1702603,49.4017092,81.39,Asia,Iran,Far away,Fault A,Low,3.66,87.82,Not available,Clay,Metamorphic,8.24
+3/28/1904,23.385158,113.404729,14.25,North America,China,Nearby,Fault C,Moderate,12.6,60.43,Not available,Sandy,Igneous,5.73
+5/24/2009,33.8941622,133.1395202,64.49,Africa,Japan,Nearby,Fault B,High,50.57,37.16,Not available,Clay,Igneous,5.27
+1/16/1947,34.8951038,36.1355295,78.69,Australia,Syria,Far away,Fault B,Low,80.2,7.17,Not available,Loam,Sedimentary,7.29
+3/7/2019,42.3781869,-83.1059154,30.24,Europe,United States,Far away,Fault A,High,48.42,35.77,Available,Clay,Metamorphic,8.46
+2/15/1972,22.919228,115.652151,23.96,North America,China,Far away,Fault A,Low,39.81,34.91,Not available,Clay,Metamorphic,2.64
+8/12/1987,-6.8950276,109.6857641,67.63,North America,Indonesia,Far away,Fault C,Low,46.42,40.8,Not available,Sandy,Metamorphic,4.34
+9/16/1933,40.2233515,-8.5336525,55.76,Asia,Portugal,Far away,Fault B,High,61.66,60.69,Not available,Sandy,Sedimentary,1.9
+5/9/1931,32.009995,114.91925,5.98,Africa,China,Far away,Fault B,High,45.56,7.67,Not available,Clay,Metamorphic,2.75
+10/2/2011,10.5072523,-66.8513772,4.39,Africa,Venezuela,Far away,Fault B,Moderate,9.19,54.42,Available,Clay,Igneous,1.97
+8/27/2007,39.585229,117.238073,18.61,Australia,China,Nearby,Fault B,High,79.99,24.9,Not available,Loam,Sedimentary,7.93
+2/2/1954,54.1491581,91.8814443,44.31,Australia,Russia,Far away,Fault B,High,69.21,2.4,Available,Loam,Sedimentary,2.62
+6/22/1915,25.60162,103.817356,48.73,North America,China,Far away,Fault B,High,41.57,10.9,Available,Loam,Sedimentary,1.39
+8/21/1978,51.29579,18.38073,43.58,Europe,Poland,Nearby,Fault A,High,33.02,38.59,Not available,Sandy,Igneous,5.95
+9/24/1937,43.8447278,4.3520438,20.24,Europe,France,Nearby,Fault A,High,82.78,51.86,Not available,Sandy,Igneous,7.38
+5/28/2002,-4.2221443,-44.7855844,81.85,Asia,Brazil,Far away,Fault A,Low,78.86,11.77,Available,Clay,Sedimentary,7.36
+10/21/1954,22.948016,113.366904,82.75,South America,China,Nearby,Fault A,High,43.49,36.03,Available,Loam,Metamorphic,9.89
+7/18/1902,-9.548008,-76.66935,26.44,Asia,Peru,Nearby,Fault B,Low,8.4,51.8,Not available,Clay,Igneous,6.09
+11/28/2011,50.1344867,18.6793794,57.41,North America,Poland,Nearby,Fault C,Moderate,48.13,9.94,Available,Sandy,Metamorphic,2.25
+11/2/1997,39.7968818,-74.9245946,64.63,North America,China,Far away,Fault B,Low,76.91,72.87,Not available,Clay,Igneous,9.75
+1/6/1910,27.910242,103.519862,44.63,South America,China,Far away,Fault C,High,90.35,36.72,Available,Sandy,Igneous,9.31
+7/2/1949,32.029558,34.799648,67.04,Europe,Israel,Nearby,Fault C,Low,70.45,59.11,Not available,Loam,Metamorphic,4.8
+3/31/1959,47.2457073,-122.4773432,29.18,Europe,United States,Far away,Fault B,Low,92.29,75.63,Not available,Clay,Metamorphic,8.98
+1/21/1967,49.03201,2.080691,89.59,Europe,France,Far away,Fault C,Moderate,38.64,94.48,Available,Sandy,Sedimentary,6.4
+7/18/1997,-27.2369945,28.8476254,87.07,Africa,South Africa,Far away,Fault A,Moderate,7.08,64.7,Available,Loam,Igneous,8.01
+9/12/1902,-3.5451284,36.1029284,96.6,North America,Tanzania,Nearby,Fault C,High,96.05,71.1,Not available,Loam,Igneous,2.09
+7/5/1990,42.14389,21.58778,35.2,Australia,Macedonia,Nearby,Fault A,Moderate,11.05,43.34,Not available,Clay,Metamorphic,7.89
+7/17/1991,63.1204712,7.8745882,14.23,Africa,Norway,Nearby,Fault B,Moderate,68.94,7.44,Not available,Sandy,Sedimentary,9.34
+8/13/1966,50.8290137,15.6741931,49.54,Australia,Poland,Far away,Fault A,Moderate,52.72,30.65,Available,Loam,Metamorphic,4.01
+11/15/2004,46.9554271,79.6785264,91.84,North America,Kazakhstan,Nearby,Fault A,High,15.55,43.83,Available,Clay,Igneous,5.81
+1/22/1931,49.9444329,21.2934649,84.98,North America,Poland,Far away,Fault A,Moderate,85.81,16.89,Not available,Clay,Igneous,5.76
+10/26/1994,40.570338,116.554665,9.94,Asia,China,Nearby,Fault A,Low,19.26,18.28,Available,Clay,Igneous,8.81
+6/17/1967,51.56668,-101.90093,44.0,North America,Canada,Nearby,Fault B,High,87.97,9.14,Not available,Clay,Sedimentary,4.91
+7/21/1926,13.78024,43.86901,63.13,North America,Yemen,Nearby,Fault C,Low,92.99,73.96,Not available,Sandy,Igneous,5.49
+6/15/1950,19.3957419,-97.2826539,25.02,Asia,Mexico,Nearby,Fault A,High,61.98,72.93,Available,Sandy,Igneous,5.24
+2/24/1942,52.793043,18.231232,35.47,Asia,Poland,Far away,Fault B,Moderate,95.14,23.5,Available,Clay,Metamorphic,9.04
+12/9/2021,-7.832843,110.2474787,89.65,North America,Indonesia,Nearby,Fault C,Low,57.83,44.43,Not available,Clay,Metamorphic,1.65
+2/23/1917,-26.69475,25.4735999,63.67,Africa,South Africa,Nearby,Fault B,High,97.63,33.11,Not available,Sandy,Igneous,1.71
+1/27/1964,-6.8646647,107.5889804,75.48,Africa,Indonesia,Nearby,Fault C,High,78.03,39.51,Not available,Sandy,Sedimentary,5.11
+10/2/1983,28.148729,112.124865,42.4,Australia,China,Nearby,Fault B,Moderate,74.47,16.78,Available,Clay,Sedimentary,1.48
+4/30/1902,29.655143,121.406995,12.55,North America,China,Far away,Fault B,High,13.17,94.91,Not available,Clay,Sedimentary,2.56
+8/30/2009,41.3760282,-8.4673336,25.28,Africa,Portugal,Nearby,Fault B,Low,55.02,70.58,Available,Clay,Metamorphic,9.55
+12/15/1942,-7.0631844,107.7843483,58.27,Asia,Indonesia,Far away,Fault C,High,49.59,77.59,Available,Clay,Metamorphic,5.91
+6/4/2022,8.2961481,35.5821994,55.36,Australia,Ethiopia,Far away,Fault B,Low,53.58,77.91,Available,Sandy,Igneous,7.34
+9/17/1950,35.000262,102.910493,35.86,Europe,China,Far away,Fault B,Low,67.4,57.75,Not available,Sandy,Metamorphic,9.4
+7/2/1912,40.7760704,44.5477905,27.56,South America,Armenia,Nearby,Fault C,Moderate,94.06,71.17,Not available,Loam,Sedimentary,8.14
+11/7/1941,28.040943,112.636417,44.76,North America,China,Nearby,Fault B,Low,2.99,75.26,Available,Sandy,Sedimentary,1.08
+3/3/1920,3.1523104,101.7178316,40.65,South America,Malaysia,Nearby,Fault A,High,21.6,2.81,Not available,Sandy,Igneous,2.25
+12/2/1907,33.6042793,69.2281531,37.02,Asia,Afghanistan,Nearby,Fault A,Low,43.36,85.18,Not available,Sandy,Sedimentary,5.24
+12/18/1970,-25.9685155,31.2483291,92.82,Asia,Swaziland,Far away,Fault C,Low,26.91,39.46,Not available,Loam,Sedimentary,6.23
+10/27/1975,-19.0153937,-65.5366243,37.91,Australia,Bolivia,Far away,Fault A,High,73.7,52.87,Not available,Loam,Metamorphic,7.53
+7/13/2001,33.9242163,135.1445719,71.27,South America,Japan,Far away,Fault B,Low,27.38,33.01,Not available,Sandy,Sedimentary,1.54
+6/20/2015,37.79446,20.85188,89.53,Australia,Greece,Nearby,Fault C,High,29.89,84.93,Available,Loam,Metamorphic,2.27
+6/30/1946,-7.5888579,108.2674092,25.03,Asia,Indonesia,Nearby,Fault A,High,68.43,80.63,Available,Sandy,Metamorphic,0.95
+1/1/2007,-20.7175404,-47.8858187,85.18,Asia,Brazil,Nearby,Fault C,High,31.99,97.43,Available,Sandy,Metamorphic,0.1
+3/16/1999,43.4627537,43.0377128,64.43,Asia,Russia,Nearby,Fault C,Low,30.35,8.72,Not available,Sandy,Sedimentary,0.24
+1/13/1935,29.0755457,-110.9610195,49.02,Australia,Mexico,Far away,Fault B,High,82.23,5.13,Not available,Sandy,Sedimentary,0.91
+11/12/2008,-28.2963334,-52.793776,8.51,Europe,Brazil,Nearby,Fault B,High,69.69,93.76,Not available,Clay,Sedimentary,0.0
+1/28/2022,39.386508,76.54461,17.05,South America,China,Far away,Fault A,Low,88.89,43.48,Not available,Sandy,Metamorphic,5.56
+5/6/1909,-5.6371803,-78.5339632,71.02,Africa,Peru,Far away,Fault B,Moderate,89.61,91.39,Available,Clay,Sedimentary,2.0
+11/30/1978,37.070834,114.504677,95.48,Europe,China,Nearby,Fault A,Moderate,27.77,24.69,Not available,Loam,Igneous,3.08
+10/15/1945,41.401292,-8.2582067,79.39,Europe,Portugal,Nearby,Fault A,Moderate,58.6,53.88,Not available,Clay,Metamorphic,7.44
+5/20/1923,44.840524,82.353656,25.44,North America,China,Nearby,Fault C,High,48.74,21.72,Not available,Clay,Igneous,8.71
+5/12/1907,-17.5227749,-63.1678668,78.49,North America,Bolivia,Far away,Fault B,High,44.75,83.5,Not available,Loam,Igneous,6.59
+5/25/1948,52.4262274,17.4890829,36.18,Europe,Poland,Nearby,Fault C,Moderate,45.24,66.58,Not available,Sandy,Igneous,4.13
+11/24/1970,13.3050684,-87.8660235,51.85,Australia,El Salvador,Nearby,Fault B,Moderate,62.88,76.74,Not available,Clay,Igneous,6.96
+12/12/1995,48.1221425,37.8765944,72.83,Australia,Ukraine,Nearby,Fault C,High,23.78,10.29,Available,Sandy,Metamorphic,8.86
+7/21/1926,-22.4313914,-43.4289497,17.51,Europe,Brazil,Nearby,Fault B,High,1.76,78.03,Not available,Sandy,Metamorphic,9.32
+12/17/1961,-18.1880676,-41.8799408,64.23,South America,Brazil,Far away,Fault A,High,58.02,45.3,Available,Loam,Igneous,9.22
+8/16/1961,-32.9817511,-60.6944851,66.99,Africa,Argentina,Nearby,Fault A,High,27.64,12.5,Available,Sandy,Sedimentary,2.18
+11/14/1902,33.759248,109.875933,59.39,North America,China,Far away,Fault C,High,72.77,13.53,Not available,Loam,Igneous,3.93
+5/17/1955,18.2865589,105.4771084,76.52,Europe,Vietnam,Nearby,Fault A,Moderate,71.37,38.21,Not available,Clay,Metamorphic,4.53
+1/21/1916,14.8431264,120.8685583,60.64,Africa,Philippines,Far away,Fault C,Moderate,71.25,7.05,Not available,Loam,Igneous,5.78
+10/16/2005,59.2690316,18.0588936,92.49,Australia,Sweden,Nearby,Fault B,Moderate,23.96,98.32,Not available,Sandy,Igneous,6.54
+12/16/1973,-6.1597768,106.8669252,27.94,North America,Indonesia,Far away,Fault A,Moderate,6.89,15.04,Available,Clay,Metamorphic,1.83
+5/7/1953,39.2476884,21.1614231,68.27,Asia,Greece,Far away,Fault C,Moderate,20.5,96.95,Not available,Sandy,Igneous,4.02
+2/16/1922,21.2350622,-102.3342182,53.46,Australia,Mexico,Far away,Fault B,High,89.22,10.13,Available,Loam,Igneous,3.93
+2/15/1971,26.982106,117.980053,81.27,South America,China,Nearby,Fault C,Moderate,61.91,39.48,Not available,Loam,Metamorphic,6.05
+12/9/1944,-21.680817,45.1658261,3.44,South America,Madagascar,Nearby,Fault B,Moderate,0.74,69.98,Available,Loam,Sedimentary,3.61
+11/9/1937,46.4830794,4.6072477,18.37,Asia,France,Far away,Fault B,Low,25.41,42.66,Not available,Clay,Igneous,5.51
+5/18/1936,30.183806,120.264253,1.76,Europe,China,Far away,Fault A,Moderate,10.06,86.59,Not available,Clay,Igneous,1.65
+9/29/1965,50.1064489,14.5744479,52.62,South America,Czech Republic,Nearby,Fault A,High,87.33,54.42,Not available,Loam,Metamorphic,6.36
+5/16/1943,48.403405,7.456782,86.89,Africa,France,Nearby,Fault A,Low,29.69,52.26,Available,Sandy,Igneous,2.61
+10/31/1952,29.584292,111.380014,84.74,Asia,China,Far away,Fault B,High,18.33,89.26,Available,Loam,Igneous,1.24
+2/24/1913,30.0781136,102.7319467,99.55,Asia,China,Far away,Fault C,High,3.13,16.22,Not available,Sandy,Sedimentary,4.31
+4/19/1915,-8.2272033,111.3679689,99.02,North America,Indonesia,Far away,Fault B,Low,80.61,14.16,Not available,Sandy,Metamorphic,9.36
+2/29/1912,52.5005848,22.3071086,17.93,South America,Poland,Far away,Fault A,Low,81.83,0.19,Not available,Loam,Igneous,6.0
+9/27/1963,13.29664,123.756628,6.27,Europe,Philippines,Far away,Fault C,Low,61.63,99.33,Available,Sandy,Sedimentary,9.71
+5/26/1949,-6.4085961,106.7647475,44.62,Africa,Indonesia,Nearby,Fault C,Low,62.89,79.74,Not available,Loam,Metamorphic,7.31
+12/16/2005,34.28,-118.7,26.6,Europe,United States,Nearby,Fault C,High,35.49,84.85,Not available,Sandy,Sedimentary,4.79
+9/14/2002,0.6546257,30.2801166,83.5,Australia,Uganda,Nearby,Fault C,Moderate,99.08,31.52,Available,Loam,Metamorphic,2.09
+5/9/1993,17.7235605,-64.7755669,46.6,Africa,U.S. Virgin Islands,Nearby,Fault C,High,24.3,22.89,Not available,Clay,Sedimentary,2.97
+4/5/1985,35.5445563,128.4922143,45.97,Asia,South Korea,Nearby,Fault C,High,58.53,37.21,Not available,Sandy,Igneous,0.64
+12/13/1939,7.7299001,125.1001641,20.11,North America,Philippines,Nearby,Fault A,Moderate,86.64,56.75,Not available,Loam,Metamorphic,4.25
+1/23/1959,49.6101863,14.9063338,95.59,Europe,Czech Republic,Far away,Fault B,High,70.58,63.68,Not available,Clay,Metamorphic,5.8
+4/27/1903,-11.8551576,43.4470213,59.86,Europe,Comoros,Nearby,Fault B,High,71.4,25.08,Available,Clay,Metamorphic,8.05
+7/19/1967,26.641315,100.222545,66.61,Asia,China,Nearby,Fault A,Low,36.16,75.21,Available,Loam,Metamorphic,0.34
+5/23/1922,35.200539,26.250031,92.52,South America,Greece,Nearby,Fault C,High,57.19,81.15,Not available,Loam,Sedimentary,6.76
+2/26/1975,53.213319,-6.67045,35.18,North America,Ireland,Nearby,Fault A,High,60.84,64.98,Not available,Sandy,Igneous,2.8
+3/2/1918,22.493937,99.679493,26.12,South America,China,Far away,Fault C,High,79.75,29.16,Not available,Sandy,Metamorphic,7.23
+4/25/1929,17.292049,96.5756695,99.8,Australia,Myanmar,Far away,Fault B,Moderate,6.91,42.17,Available,Loam,Igneous,9.07
+4/21/1957,13.6855601,100.444639,35.13,South America,Thailand,Nearby,Fault B,High,12.86,32.67,Available,Loam,Sedimentary,6.52
+8/5/1952,43.0429124,1.9038837,8.03,South America,France,Nearby,Fault A,Low,77.24,82.86,Available,Clay,Sedimentary,6.37
+6/20/1948,7.5866041,0.6085749,51.69,Australia,Togo,Far away,Fault B,Moderate,65.56,9.84,Not available,Sandy,Sedimentary,0.16
+9/16/1948,48.5625988,3.3093771,52.7,Asia,France,Nearby,Fault C,Moderate,46.89,5.78,Available,Sandy,Sedimentary,0.58
+11/10/2007,53.2058,34.6649001,11.81,South America,Russia,Far away,Fault C,Moderate,90.72,47.33,Available,Clay,Sedimentary,3.18
+6/9/1941,51.8792137,39.5849504,20.8,Europe,Russia,Nearby,Fault B,Low,10.5,72.37,Available,Clay,Sedimentary,5.28
+8/13/1987,53.9476748,32.8565262,98.31,Europe,Russia,Nearby,Fault B,Moderate,11.52,77.76,Not available,Sandy,Igneous,0.93
+4/23/1983,13.490046,120.960159,58.85,North America,Philippines,Far away,Fault A,Moderate,63.51,52.73,Not available,Loam,Sedimentary,1.7
+8/19/2007,53.3141205,-6.2387374,29.95,Australia,Ireland,Far away,Fault A,Low,83.32,33.02,Not available,Clay,Igneous,9.53
+9/6/1993,30.916426,118.734651,42.72,Asia,China,Nearby,Fault C,High,88.09,62.96,Not available,Loam,Igneous,0.89
+4/29/1913,56.744985,15.9203039,55.96,South America,Sweden,Far away,Fault C,High,22.13,11.95,Not available,Sandy,Igneous,2.7
+11/30/1962,44.1884454,19.3776743,50.77,Africa,Serbia,Nearby,Fault A,Moderate,65.71,39.97,Not available,Sandy,Metamorphic,4.24
+8/5/1995,21.1062206,107.8346924,66.87,Africa,Vietnam,Nearby,Fault A,Low,71.63,39.92,Not available,Loam,Metamorphic,4.23
+10/9/1929,-7.1651833,115.7930198,13.22,South America,Indonesia,Far away,Fault C,Low,10.66,27.71,Not available,Sandy,Metamorphic,7.79
+6/12/1950,36.9884302,25.0406679,91.95,Asia,Greece,Far away,Fault B,Moderate,62.35,87.14,Not available,Sandy,Igneous,5.9
+11/24/1944,57.0936018,24.5424341,50.24,Europe,Latvia,Nearby,Fault C,High,65.43,4.98,Available,Clay,Sedimentary,7.9
+2/1/1915,37.309045,117.157183,90.84,North America,China,Nearby,Fault C,Low,32.12,11.49,Available,Sandy,Igneous,5.07
+9/18/1917,36.4745388,66.9511459,21.73,North America,Afghanistan,Far away,Fault A,Low,42.17,37.76,Available,Sandy,Igneous,9.2
+10/20/2018,41.9391449,12.532671,91.68,Australia,Italy,Far away,Fault C,Low,5.2,61.13,Not available,Clay,Sedimentary,8.3
+5/8/1975,9.0651,123.0524,15.35,Australia,Philippines,Nearby,Fault C,High,53.81,87.66,Not available,Sandy,Metamorphic,0.78
+4/13/2012,38.6627574,-9.0573022,67.09,Asia,Portugal,Nearby,Fault C,High,8.27,93.07,Not available,Sandy,Igneous,5.7
+10/23/1937,59.1779971,18.1593939,96.14,Australia,Sweden,Far away,Fault B,Low,52.72,98.4,Available,Loam,Metamorphic,5.28
+8/19/1906,-6.7790605,108.2852049,2.89,Africa,Indonesia,Far away,Fault B,High,93.88,85.0,Not available,Sandy,Sedimentary,2.02
+12/21/1910,34.620202,112.453926,51.86,Australia,China,Far away,Fault A,Moderate,94.66,58.78,Available,Clay,Igneous,2.7
+5/10/2013,41.107701,21.3788215,21.84,Europe,Macedonia,Far away,Fault A,High,21.28,3.13,Not available,Loam,Igneous,8.03
+5/21/1974,14.7567271,-90.9199977,85.09,Asia,Guatemala,Far away,Fault A,Low,72.28,25.27,Not available,Sandy,Metamorphic,3.7
+6/15/2012,-34.6066162,-58.4052178,12.0,Europe,Argentina,Far away,Fault C,Low,88.39,97.4,Available,Sandy,Sedimentary,9.66
+8/13/1924,33.083093,120.185095,59.94,Australia,China,Nearby,Fault B,Moderate,62.51,17.11,Not available,Sandy,Metamorphic,2.42
+12/15/1959,-8.650979,116.3249438,39.18,Africa,Indonesia,Far away,Fault A,High,63.28,64.61,Not available,Sandy,Metamorphic,3.58
+12/4/1911,59.3542694,18.1855698,33.5,Asia,Sweden,Nearby,Fault B,Low,9.26,69.96,Available,Loam,Metamorphic,4.7
+12/16/2008,-3.2244045,-39.7755571,64.53,Europe,Brazil,Far away,Fault C,Moderate,58.52,8.6,Not available,Sandy,Sedimentary,3.39
+3/15/1977,32.533573,120.467343,14.03,North America,China,Nearby,Fault A,Moderate,78.67,46.27,Available,Clay,Sedimentary,2.21
+6/29/1992,36.334104,113.228852,3.56,Europe,China,Far away,Fault B,Moderate,35.41,37.01,Available,Loam,Igneous,5.71
+1/20/2016,-8.1189113,113.6621236,33.48,Europe,Indonesia,Nearby,Fault B,High,57.93,38.12,Not available,Clay,Sedimentary,9.99
+9/1/1975,14.1005099,-1.6226538,64.29,Asia,Burkina Faso,Far away,Fault C,Low,49.91,38.94,Not available,Loam,Sedimentary,3.83
+8/3/1993,28.249827,91.767413,18.37,Asia,China,Far away,Fault B,Moderate,67.26,82.13,Not available,Sandy,Sedimentary,9.38
+8/28/1941,33.011529,114.022298,78.69,South America,China,Nearby,Fault B,Moderate,82.55,65.43,Not available,Clay,Metamorphic,9.7
+4/18/1937,23.902479,106.618283,43.89,Asia,China,Far away,Fault B,High,34.07,72.8,Available,Loam,Metamorphic,1.79
+7/10/1983,22.5088124,-83.5136841,87.09,Asia,Cuba,Far away,Fault C,Moderate,25.29,45.6,Not available,Sandy,Metamorphic,7.07
+2/16/1970,-31.3317595,-54.1038619,13.8,Europe,Brazil,Nearby,Fault C,Low,71.17,84.76,Available,Loam,Igneous,8.9
+3/9/2015,6.5163966,14.2919273,76.94,Africa,Cameroon,Far away,Fault A,Moderate,82.9,56.84,Not available,Sandy,Metamorphic,1.47
+5/2/1962,10.6227552,1.2650349,20.15,Europe,Benin,Nearby,Fault B,Low,75.37,80.01,Not available,Sandy,Igneous,2.35
+6/24/1956,6.8928179,125.1635402,60.59,Africa,Philippines,Nearby,Fault A,Moderate,1.8,23.71,Not available,Loam,Metamorphic,2.06
+12/7/1955,20.4463471,106.3365828,87.98,Africa,Vietnam,Nearby,Fault C,Moderate,45.54,93.06,Available,Loam,Igneous,5.06
+8/13/1991,44.9764185,17.9070412,67.88,Australia,Bosnia and Herzegovina,Far away,Fault C,High,34.94,6.17,Not available,Clay,Metamorphic,0.74
+9/7/1973,-12.5502705,28.2409671,92.01,South America,Zambia,Nearby,Fault C,High,62.89,40.81,Available,Clay,Metamorphic,9.03
+11/26/1976,7.3832138,122.804355,87.04,North America,Philippines,Nearby,Fault A,Low,82.48,41.44,Not available,Loam,Igneous,1.45
+1/20/1972,14.5697429,121.0190818,53.98,Australia,Philippines,Nearby,Fault B,Moderate,69.96,38.01,Available,Clay,Sedimentary,2.39
+7/22/2004,5.9042627,-4.8261424,74.18,North America,Ivory Coast,Far away,Fault C,High,19.92,96.09,Not available,Clay,Sedimentary,5.14
+7/29/2021,48.09967,122.667783,61.8,Africa,China,Far away,Fault B,High,40.92,40.86,Not available,Sandy,Metamorphic,4.55
+5/22/1989,6.4503024,2.3468195,2.08,Africa,Benin,Far away,Fault B,High,58.87,62.55,Available,Clay,Metamorphic,9.54
+7/8/1921,-37.1954967,174.9497836,42.48,North America,New Zealand,Nearby,Fault C,Moderate,98.28,96.93,Not available,Clay,Igneous,4.95
+11/3/1960,32.0550488,131.4937793,67.23,Africa,Japan,Far away,Fault A,Low,24.32,91.46,Not available,Clay,Igneous,3.62
+10/18/2018,-24.9670799,-57.5476145,34.55,South America,Paraguay,Far away,Fault C,Low,76.48,60.22,Not available,Sandy,Sedimentary,8.06
+10/20/1956,0.6092923,30.6401231,41.17,North America,Uganda,Nearby,Fault C,Moderate,19.3,82.39,Not available,Clay,Metamorphic,9.06
+1/23/1905,-7.1293143,111.7033357,74.87,South America,Indonesia,Far away,Fault B,Moderate,79.47,79.63,Available,Clay,Igneous,8.62
+10/5/1914,-6.987872,112.1966734,45.74,Asia,Indonesia,Nearby,Fault A,Moderate,89.78,22.21,Not available,Clay,Sedimentary,6.61
+1/27/1908,-7.1973389,106.8502879,8.04,South America,Indonesia,Far away,Fault B,Low,27.04,51.48,Not available,Clay,Sedimentary,2.78
+5/21/1911,15.3694451,44.1910066,35.53,Australia,Yemen,Far away,Fault A,High,24.6,82.25,Not available,Clay,Metamorphic,0.89
+10/17/2017,53.3916434,-6.1920933,69.24,Europe,Ireland,Far away,Fault A,High,85.4,91.51,Not available,Clay,Sedimentary,1.1
+4/25/1958,31.750277,119.574986,6.01,Africa,China,Far away,Fault C,High,18.48,80.78,Available,Clay,Metamorphic,5.87
+1/14/1910,18.8826771,-96.935003,79.78,Africa,Mexico,Far away,Fault C,Low,44.65,68.32,Available,Loam,Metamorphic,1.22
+5/19/1948,11.6485321,13.4193903,87.69,Africa,Nigeria,Far away,Fault A,Moderate,7.23,48.6,Not available,Loam,Sedimentary,8.85
+12/6/1982,44.982137,38.9254064,81.02,Asia,Russia,Far away,Fault A,Low,31.97,30.06,Not available,Loam,Sedimentary,7.9
+10/1/1965,49.363914,14.5786881,2.63,Asia,Czech Republic,Nearby,Fault A,High,9.48,21.11,Not available,Loam,Sedimentary,9.28
+9/8/1971,55.7,37.58333,89.43,Africa,Russia,Nearby,Fault C,High,11.12,37.5,Not available,Loam,Sedimentary,2.79
+5/27/1916,59.9251489,30.317148,5.38,North America,Russia,Far away,Fault A,High,65.04,66.56,Not available,Sandy,Igneous,0.11
+11/27/1984,37.8116578,22.869699,42.55,Africa,Greece,Far away,Fault B,High,18.55,18.06,Available,Clay,Sedimentary,6.26
+1/31/1948,41.1837502,23.2810087,94.57,Australia,Greece,Nearby,Fault B,Low,12.45,34.8,Not available,Clay,Metamorphic,8.96
+1/8/2016,9.6314,123.0873,77.73,Australia,Philippines,Far away,Fault B,Moderate,74.74,94.21,Available,Clay,Sedimentary,9.83
+11/12/1919,45.4139794,-75.7103682,92.68,Australia,Canada,Far away,Fault C,Low,48.94,60.3,Not available,Sandy,Metamorphic,9.57
+2/1/1909,52.7038839,55.8511258,72.67,South America,Russia,Nearby,Fault B,Low,89.99,4.41,Not available,Loam,Metamorphic,5.69
+2/21/1993,14.4142191,120.9495257,89.92,North America,Philippines,Far away,Fault A,Moderate,48.88,15.43,Not available,Sandy,Metamorphic,1.17
+10/2/1940,52.721723,-2.244703,32.02,Africa,United Kingdom,Nearby,Fault B,High,39.31,24.66,Available,Loam,Igneous,0.13
+5/20/1997,7.7419585,-2.1008486,30.09,North America,Ghana,Far away,Fault C,Moderate,79.06,2.33,Available,Sandy,Igneous,7.84
+6/3/1915,3.8788254,98.478759,41.14,South America,Indonesia,Nearby,Fault A,Moderate,82.4,77.8,Available,Clay,Sedimentary,7.82
+8/25/1904,36.4203181,140.5177769,99.29,Africa,Japan,Nearby,Fault B,Moderate,60.73,41.93,Not available,Sandy,Sedimentary,2.05
+5/10/2016,63.0725838,14.823991,25.9,South America,Sweden,Far away,Fault B,Low,69.45,13.77,Not available,Loam,Sedimentary,9.68
+2/19/1971,46.4979131,15.6702113,16.8,Europe,Slovenia,Nearby,Fault A,High,2.2,12.02,Not available,Clay,Igneous,8.76
+8/17/1971,17.9567646,-102.1943485,6.77,North America,Mexico,Nearby,Fault C,Low,46.66,38.76,Not available,Sandy,Metamorphic,7.71
+12/28/1930,55.8697739,48.5236711,81.08,Australia,Russia,Far away,Fault C,Low,24.17,56.14,Available,Clay,Igneous,4.26
+8/9/2007,38.2342865,140.3509794,30.31,Africa,Japan,Nearby,Fault B,Moderate,99.61,91.86,Not available,Sandy,Metamorphic,8.23
+9/3/1922,50.1269792,14.0180996,73.9,Australia,Czech Republic,Far away,Fault C,Moderate,19.84,93.02,Not available,Clay,Sedimentary,2.28
+7/26/1971,55.9840531,37.1619979,78.7,Africa,Russia,Far away,Fault C,High,23.23,38.5,Not available,Sandy,Sedimentary,9.68
+3/17/1936,56.0462575,12.730766,18.49,Australia,Sweden,Nearby,Fault B,Moderate,50.13,68.52,Available,Clay,Sedimentary,5.46
+9/6/1928,18.1096868,-95.8803869,16.8,Europe,Mexico,Nearby,Fault C,Moderate,45.92,61.6,Not available,Sandy,Igneous,3.37
+8/7/1975,-25.6188002,-54.5616444,12.56,Europe,Argentina,Nearby,Fault A,High,23.5,77.63,Available,Sandy,Igneous,5.55
+12/17/1987,28.643587,115.568583,59.51,Europe,China,Far away,Fault B,High,21.15,88.29,Not available,Loam,Sedimentary,6.09
+10/22/1957,32.009016,112.122426,93.94,South America,China,Far away,Fault C,High,19.44,40.92,Not available,Sandy,Metamorphic,1.36
+7/29/1917,10.5289556,-73.7242486,71.31,Australia,Colombia,Nearby,Fault A,High,80.99,4.95,Not available,Clay,Metamorphic,4.01
+10/24/1988,6.3230608,8.1120116,86.49,South America,Nigeria,Nearby,Fault A,High,48.0,32.31,Not available,Sandy,Igneous,3.39
+5/24/1902,-23.8107528,-47.1752123,3.99,Africa,Brazil,Far away,Fault B,Moderate,91.9,80.15,Available,Clay,Igneous,6.71
+8/5/1956,49.3107516,105.9224212,3.26,Australia,Mongolia,Far away,Fault B,High,44.07,6.09,Not available,Clay,Metamorphic,2.15
+3/8/1949,37.433963,118.674614,3.02,Europe,China,Nearby,Fault A,Low,82.06,8.48,Available,Clay,Igneous,0.94
+10/30/1923,-23.4500163,-51.70451,67.33,South America,Brazil,Nearby,Fault B,Low,36.46,89.77,Available,Sandy,Metamorphic,9.41
+10/16/2013,64.3018789,19.6203523,49.93,Africa,Sweden,Far away,Fault C,Moderate,74.67,70.84,Not available,Sandy,Igneous,5.0
+6/19/1912,-15.1632458,19.1612478,11.93,South America,Angola,Nearby,Fault A,Low,46.96,71.22,Not available,Loam,Metamorphic,1.71
+12/5/1934,41.7748554,-88.1480775,80.79,Australia,United States,Nearby,Fault B,Low,20.21,48.86,Not available,Sandy,Sedimentary,9.25
+3/31/1932,52.2215511,85.7616347,45.87,Asia,Russia,Far away,Fault B,Low,89.62,28.59,Not available,Clay,Sedimentary,9.03
+12/18/1985,-5.6202503,-78.4695111,4.03,Europe,Peru,Nearby,Fault B,Moderate,2.86,22.69,Not available,Loam,Metamorphic,5.04
+5/25/1942,40.8157748,-8.489917,62.58,North America,Portugal,Far away,Fault A,Moderate,69.89,2.56,Available,Loam,Metamorphic,8.61
+10/11/1968,4.6096768,101.1064003,68.7,Australia,Malaysia,Far away,Fault B,High,78.55,50.6,Not available,Sandy,Sedimentary,4.91
+8/20/1979,30.6514558,104.08491,94.3,North America,China,Nearby,Fault C,Moderate,50.6,73.79,Not available,Sandy,Metamorphic,9.96
+3/16/1901,40.5235837,19.8075358,25.73,North America,Albania,Nearby,Fault A,High,26.49,80.97,Available,Loam,Metamorphic,3.45
+12/18/1930,21.826957,112.16519,83.93,Europe,China,Far away,Fault A,Moderate,34.79,64.58,Not available,Loam,Metamorphic,8.63
+1/18/2004,-8.7287229,117.666952,15.72,South America,Indonesia,Nearby,Fault A,Low,82.77,31.31,Available,Sandy,Metamorphic,3.89
+6/10/2010,40.417311,21.0565269,69.21,Africa,Greece,Nearby,Fault B,Moderate,77.71,32.83,Not available,Clay,Sedimentary,4.33
+1/2/1960,33.8941622,133.1395202,0.77,Europe,Japan,Far away,Fault A,Moderate,58.18,56.34,Not available,Clay,Igneous,2.37
+11/11/2005,-11.1892053,28.8888064,93.68,Africa,Zambia,Far away,Fault B,Low,10.77,59.67,Available,Clay,Sedimentary,1.34
+5/21/1924,38.776362,114.9416819,99.21,North America,China,Far away,Fault A,High,19.75,49.96,Not available,Clay,Igneous,5.21
+2/5/2012,-6.3235522,106.6948015,12.67,Asia,Indonesia,Far away,Fault B,High,49.02,18.86,Not available,Loam,Metamorphic,4.31
+5/2/1938,9.9160172,123.9154682,64.45,South America,Philippines,Far away,Fault A,Moderate,96.25,35.38,Not available,Clay,Metamorphic,5.39
+2/15/1991,44.6488775,37.9401099,7.98,Australia,Russia,Nearby,Fault B,High,40.28,90.07,Available,Loam,Igneous,1.85
+3/29/1957,60.4253612,16.5438565,21.22,Australia,Sweden,Nearby,Fault C,High,29.12,49.79,Not available,Clay,Sedimentary,1.55
+7/18/2013,55.8038507,38.9815138,5.23,Australia,Russia,Nearby,Fault A,High,90.65,4.46,Available,Sandy,Igneous,9.35
+9/8/1950,14.8857071,-90.9087455,60.36,South America,Guatemala,Far away,Fault A,Low,33.88,36.29,Not available,Clay,Metamorphic,5.45
+9/6/2003,-7.6966822,110.6129124,6.64,North America,Indonesia,Nearby,Fault A,Low,30.74,52.28,Available,Sandy,Igneous,1.82
+8/3/1934,-6.9445784,107.5179721,28.76,Asia,Indonesia,Far away,Fault C,High,87.14,49.14,Available,Clay,Sedimentary,2.77
+8/23/1958,-6.3947391,106.0081819,86.0,North America,Indonesia,Far away,Fault B,Moderate,11.59,95.19,Not available,Sandy,Metamorphic,5.81
+9/5/1993,7.3381488,13.5668302,59.13,Europe,Cameroon,Nearby,Fault C,Moderate,66.87,85.11,Available,Loam,Metamorphic,8.37
+3/24/1967,13.8266134,122.9580541,64.51,South America,Philippines,Nearby,Fault B,Low,0.84,59.41,Available,Sandy,Sedimentary,1.79
+1/7/1903,44.639079,85.784329,27.51,Asia,China,Nearby,Fault A,High,27.9,15.51,Not available,Clay,Igneous,2.29
+1/16/2021,50.5609123,18.943124,37.7,Australia,Poland,Far away,Fault A,Moderate,96.2,15.04,Available,Clay,Igneous,3.98
+1/26/1915,40.74389,19.93528,34.3,North America,Albania,Far away,Fault B,Low,86.71,22.55,Not available,Clay,Igneous,1.13
+3/13/1914,43.3423246,1.2606792,72.12,North America,France,Nearby,Fault B,High,15.73,54.02,Not available,Clay,Igneous,4.02
+8/17/1962,-8.4382384,114.0974489,89.49,Australia,Indonesia,Nearby,Fault A,Low,80.01,51.27,Available,Sandy,Metamorphic,4.91
+4/2/1979,51.5116933,-0.0829051,90.84,Australia,United Kingdom,Nearby,Fault C,Moderate,60.28,81.21,Not available,Clay,Igneous,5.29
+7/24/1918,59.9135958,10.7792426,82.5,Africa,Norway,Far away,Fault A,High,76.31,69.48,Available,Clay,Metamorphic,2.91
+7/28/1981,-4.9843552,-44.4370606,59.08,South America,Brazil,Far away,Fault B,Moderate,25.31,5.66,Available,Sandy,Igneous,1.09
+12/23/1985,7.6738908,36.8357927,76.39,North America,Ethiopia,Nearby,Fault A,Moderate,95.12,82.0,Available,Clay,Metamorphic,3.4
+12/13/1916,57.6055534,12.2028691,67.92,South America,Sweden,Far away,Fault A,Low,10.06,2.45,Available,Loam,Igneous,1.62
+1/9/1940,3.1510265,101.663037,20.47,Africa,Malaysia,Nearby,Fault B,Moderate,6.97,41.97,Not available,Clay,Igneous,0.2
+1/1/1955,7.9855625,125.1375831,40.58,Africa,Philippines,Far away,Fault A,Low,5.3,65.35,Available,Sandy,Metamorphic,7.25
+12/8/2007,-7.606418,110.190865,80.56,Africa,Indonesia,Far away,Fault A,High,98.55,32.28,Available,Sandy,Igneous,9.18
+12/18/1971,-0.7140022,-80.109357,74.8,Europe,Ecuador,Nearby,Fault C,High,76.11,66.21,Not available,Loam,Metamorphic,4.85
+10/30/1906,-43.2654767,-65.3586493,53.72,Asia,Argentina,Far away,Fault B,Low,79.61,27.66,Available,Sandy,Sedimentary,2.07
+8/1/1985,54.333333,32.466667,85.69,North America,Russia,Nearby,Fault A,High,67.33,72.1,Not available,Sandy,Metamorphic,3.95
+5/11/1920,14.1163511,121.2225723,42.52,North America,Philippines,Nearby,Fault C,Moderate,72.26,39.91,Not available,Clay,Igneous,8.73
+1/13/1912,12.0969337,124.508607,85.87,Australia,Philippines,Far away,Fault C,High,82.23,4.17,Available,Sandy,Igneous,7.54
+2/18/1923,39.940646,116.102009,96.62,Asia,China,Far away,Fault B,High,0.27,31.84,Not available,Loam,Igneous,7.29
+7/17/1949,51.64438,22.561217,99.7,Australia,Poland,Nearby,Fault C,Moderate,91.86,39.27,Available,Loam,Metamorphic,9.33
+6/27/1957,10.0165314,-84.2184331,15.08,Australia,Costa Rica,Nearby,Fault A,High,63.22,30.38,Not available,Clay,Igneous,9.64
+10/20/1981,25.4110762,56.2482277,84.99,North America,United Arab Emirates,Nearby,Fault A,Low,3.39,4.99,Available,Loam,Sedimentary,2.38
+3/20/1957,21.9441032,-79.1604971,76.79,Australia,Cuba,Nearby,Fault C,High,17.68,30.65,Available,Sandy,Metamorphic,0.59
+10/24/1972,51.31653,16.2304569,0.71,South America,Poland,Nearby,Fault A,High,9.67,63.73,Not available,Loam,Sedimentary,8.19
+2/7/1943,23.642114,104.888718,88.01,Europe,China,Far away,Fault A,Low,44.99,29.11,Not available,Sandy,Metamorphic,4.66
+4/15/1990,-8.8795811,121.656829,16.49,Africa,Indonesia,Nearby,Fault B,Low,45.47,75.75,Not available,Loam,Sedimentary,2.65
+12/29/1962,45.9380817,16.7806658,29.16,North America,Croatia,Far away,Fault A,Low,6.09,43.13,Not available,Clay,Metamorphic,3.45
+3/13/1944,32.23647,35.38711,29.84,North America,Palestinian Territory,Far away,Fault B,Moderate,14.41,39.42,Not available,Clay,Metamorphic,6.48
+4/28/1990,23.802044,116.932436,58.6,North America,China,Far away,Fault B,Moderate,6.94,63.11,Not available,Sandy,Sedimentary,8.62
+5/24/1960,43.1283145,5.9294606,0.23,Africa,France,Nearby,Fault B,Low,8.79,42.36,Not available,Sandy,Metamorphic,7.6
+9/2/1920,32.993106,97.008784,15.73,South America,China,Nearby,Fault A,Moderate,97.45,65.09,Not available,Clay,Sedimentary,3.0
+10/20/1984,38.088041,114.322047,59.14,South America,China,Far away,Fault A,Moderate,28.54,65.5,Not available,Clay,Igneous,9.89
+2/26/1966,-7.2505074,107.7928499,37.71,North America,Indonesia,Far away,Fault A,Moderate,79.48,90.11,Available,Clay,Metamorphic,4.17
+5/21/1962,-6.4712737,110.8171082,70.33,Africa,Indonesia,Nearby,Fault A,Moderate,52.97,36.34,Available,Clay,Sedimentary,2.08
+4/11/1961,-32.4499018,-71.2325958,46.14,North America,Chile,Far away,Fault A,Low,82.68,62.41,Not available,Loam,Sedimentary,4.32
+2/10/1969,50.0413118,19.2000652,6.86,Asia,Poland,Far away,Fault A,Low,13.78,87.12,Available,Loam,Igneous,7.31
+6/23/2016,6.991539,-73.053998,10.21,Australia,Colombia,Nearby,Fault A,High,3.38,28.87,Available,Clay,Sedimentary,5.5
+10/31/1969,23.2393346,90.1869644,69.22,North America,Bangladesh,Far away,Fault C,Low,18.08,51.97,Not available,Loam,Igneous,0.11
+3/22/1942,-38.0033365,-57.5430848,3.85,North America,Argentina,Far away,Fault A,Low,55.21,36.02,Available,Loam,Sedimentary,1.32
+12/3/1975,-3.4301491,114.678669,75.52,Europe,Indonesia,Far away,Fault B,Low,98.47,65.62,Available,Loam,Metamorphic,5.93
+9/18/1964,-8.1635406,112.488749,51.56,North America,Indonesia,Far away,Fault A,High,6.75,35.72,Available,Clay,Sedimentary,7.12
+10/6/1941,-5.8248093,-46.1594921,17.76,Australia,Brazil,Far away,Fault A,Moderate,37.17,43.41,Not available,Sandy,Igneous,2.66
+6/15/1959,-0.5833333,73.2333333,40.75,Asia,Maldives,Nearby,Fault C,Moderate,92.68,16.26,Not available,Sandy,Metamorphic,7.84
+2/6/1967,30.741991,121.341969,6.39,Asia,China,Nearby,Fault B,Moderate,0.42,41.19,Not available,Clay,Sedimentary,0.98
+11/14/1902,46.60873,-81.20763,85.21,South America,Canada,Nearby,Fault B,Low,87.61,24.6,Available,Sandy,Sedimentary,7.16
+8/8/1992,14.5697429,121.0190818,92.42,Africa,Philippines,Far away,Fault B,Moderate,46.59,26.72,Available,Sandy,Igneous,8.43
+7/14/1914,57.537763,26.7043139,5.73,Africa,Latvia,Nearby,Fault A,Low,29.77,71.68,Available,Sandy,Metamorphic,0.25
+5/29/2013,35.6977766,9.1456153,68.13,Asia,Tunisia,Nearby,Fault A,High,46.89,66.75,Not available,Clay,Igneous,5.43
+4/21/1992,-3.7901775,114.7380385,96.64,Africa,Indonesia,Far away,Fault C,High,95.87,3.22,Available,Sandy,Sedimentary,7.09
+9/12/1901,28.065524,112.217855,28.18,Europe,China,Far away,Fault C,Moderate,30.95,2.81,Available,Sandy,Igneous,9.46
+4/14/2021,60.26808,29.7523,30.99,Europe,Russia,Nearby,Fault A,High,1.28,50.79,Not available,Loam,Metamorphic,4.53
+4/21/2003,4.632147,-74.463014,91.63,Africa,Colombia,Far away,Fault A,Moderate,98.19,76.67,Available,Loam,Sedimentary,4.69
+3/30/2004,-27.0307058,-62.7087197,32.81,Europe,Argentina,Nearby,Fault B,Moderate,77.07,26.76,Not available,Loam,Sedimentary,6.01
+2/12/2015,-4.2163479,104.4694186,77.61,North America,Indonesia,Nearby,Fault A,High,36.29,0.48,Available,Loam,Igneous,6.53
+9/23/1941,56.2807392,14.5530718,37.45,Europe,Sweden,Nearby,Fault C,High,50.98,32.4,Not available,Clay,Sedimentary,2.05
+3/11/1964,45.21678,-72.51581,98.11,South America,Canada,Nearby,Fault C,High,62.64,43.5,Not available,Loam,Metamorphic,0.7
+7/18/2007,31.228026,121.454211,59.05,Australia,China,Far away,Fault A,High,91.96,3.91,Not available,Loam,Sedimentary,9.69
+10/18/2022,33.7443314,36.7011138,58.68,Asia,Syria,Far away,Fault A,Moderate,60.06,84.47,Available,Clay,Igneous,5.1
+4/3/1959,23.624973,116.768541,66.57,Europe,China,Nearby,Fault B,Low,66.07,65.67,Available,Clay,Sedimentary,3.99
+2/29/1968,36.776357,119.98842,76.38,North America,China,Far away,Fault B,Moderate,14.09,91.23,Not available,Loam,Metamorphic,4.66
+1/20/2021,58.7239855,59.4504627,10.95,Asia,Russia,Nearby,Fault B,Low,61.78,14.24,Available,Sandy,Igneous,5.7
+3/3/1923,48.8313352,58.1488829,19.82,South America,Kazakhstan,Nearby,Fault A,Moderate,21.64,97.54,Available,Sandy,Sedimentary,7.91
+11/5/1939,55.6761482,37.6032435,2.76,Africa,Russia,Nearby,Fault A,Moderate,46.32,55.24,Available,Sandy,Metamorphic,6.52
+1/25/1931,31.0424566,30.4727503,87.86,Europe,Egypt,Far away,Fault C,High,82.08,0.19,Not available,Clay,Igneous,3.23
+2/8/1902,-6.968354,112.475502,56.68,Australia,Indonesia,Far away,Fault C,Moderate,51.48,10.04,Not available,Clay,Sedimentary,4.39
+6/10/2007,22.919228,115.652151,37.91,Africa,China,Far away,Fault C,Low,94.02,88.56,Available,Clay,Igneous,8.64
+8/26/2007,15.48277,120.58604,57.14,North America,Philippines,Far away,Fault A,Moderate,78.54,81.08,Available,Loam,Igneous,8.22
+7/17/1979,55.590397,37.6278499,89.19,Australia,Russia,Far away,Fault C,High,25.78,24.39,Available,Clay,Metamorphic,3.94
+4/4/1976,-20.8890637,-48.6790007,34.08,Australia,Brazil,Nearby,Fault A,Moderate,91.84,64.51,Available,Sandy,Igneous,1.25
+7/25/1920,45.1253665,42.0223291,14.69,Asia,Russia,Far away,Fault C,High,59.36,49.56,Not available,Loam,Igneous,9.73
+11/15/1993,37.5544156,56.9267259,86.9,South America,Iran,Far away,Fault A,Low,62.61,82.98,Not available,Loam,Metamorphic,8.23
+5/9/1947,-7.7788197,113.7692328,70.51,Asia,Indonesia,Far away,Fault B,Low,98.1,94.79,Available,Loam,Sedimentary,5.44
+11/24/1940,40.6027503,22.9896482,85.27,North America,Greece,Nearby,Fault B,Moderate,58.3,14.76,Available,Sandy,Igneous,0.24
+10/27/1965,33.5731104,-7.5898434,25.05,South America,Morocco,Far away,Fault B,Moderate,66.67,29.88,Available,Clay,Metamorphic,8.47
+5/27/2018,6.485702,-75.393831,27.65,Australia,Colombia,Nearby,Fault C,High,2.33,90.86,Not available,Loam,Igneous,7.42
+8/3/1904,60.0785015,15.0265478,9.73,Asia,Sweden,Nearby,Fault C,Moderate,34.52,30.28,Not available,Sandy,Metamorphic,8.83
+1/9/1967,46.5838069,0.3350126,27.96,Asia,France,Far away,Fault C,Low,59.98,46.27,Available,Loam,Igneous,9.15
+3/11/1988,49.7759894,13.6924662,40.08,Australia,Czech Republic,Nearby,Fault C,High,77.5,38.49,Available,Sandy,Metamorphic,4.42
+8/26/1916,59.1389119,37.9366941,65.59,North America,Russia,Far away,Fault B,High,27.98,22.7,Not available,Sandy,Igneous,9.82
+4/5/1956,13.0748879,120.7213113,27.97,Asia,Philippines,Nearby,Fault A,Moderate,19.56,89.39,Not available,Sandy,Metamorphic,4.69
+12/15/2022,55.6383075,22.938485,27.92,Africa,Lithuania,Nearby,Fault C,Moderate,14.71,23.62,Available,Clay,Sedimentary,4.92
+4/25/2007,33.8597337,134.6589917,50.9,Europe,Japan,Far away,Fault C,Low,12.95,3.6,Not available,Clay,Metamorphic,6.69
+1/16/1978,57.5275396,12.0592344,56.9,Europe,Sweden,Far away,Fault B,Moderate,82.77,33.84,Available,Clay,Metamorphic,6.74
+12/5/2020,46.6522807,38.0818378,3.17,Europe,Russia,Nearby,Fault B,Low,98.58,60.38,Available,Loam,Igneous,1.37
+2/1/1952,-7.6913152,109.89939,98.38,Australia,Indonesia,Nearby,Fault A,Low,61.97,52.9,Available,Loam,Sedimentary,3.32
+9/8/1931,39.1457699,-9.234085,79.35,North America,Portugal,Nearby,Fault B,Moderate,50.37,14.72,Not available,Sandy,Metamorphic,7.53
+7/28/1961,-22.304089,166.447436,93.34,Australia,New Caledonia,Far away,Fault C,High,2.03,68.95,Not available,Sandy,Metamorphic,5.91
+3/29/1908,-16.1001798,167.4164063,10.48,Europe,Vanuatu,Nearby,Fault B,High,44.8,63.58,Available,Sandy,Sedimentary,0.95
+9/10/1956,41.1741505,-8.6691157,43.75,Australia,Portugal,Far away,Fault A,Low,2.43,27.53,Not available,Clay,Igneous,4.81
+4/6/1940,22.28616,89.95882,72.69,Europe,Bangladesh,Nearby,Fault B,High,40.77,15.98,Not available,Loam,Metamorphic,9.86
+5/10/1991,49.0733587,17.3859903,52.01,Asia,Czech Republic,Far away,Fault C,Moderate,24.91,84.76,Not available,Sandy,Sedimentary,8.13
+1/13/1919,-20.1287177,-44.8645811,22.89,Asia,Brazil,Nearby,Fault B,High,89.57,42.8,Not available,Sandy,Metamorphic,3.26
+7/9/1997,31.869937,35.065202,6.97,South America,Palestinian Territory,Nearby,Fault A,Moderate,37.73,7.4,Not available,Sandy,Sedimentary,2.36
+10/3/1941,-7.293851,107.8151785,38.9,Australia,Indonesia,Far away,Fault B,Moderate,36.63,38.99,Not available,Loam,Sedimentary,8.16
+8/13/1954,36.512506,118.542982,5.91,Australia,China,Far away,Fault C,Moderate,58.19,92.62,Available,Sandy,Igneous,6.92
+8/28/1967,-5.5844754,105.4771084,3.11,South America,Indonesia,Nearby,Fault C,Moderate,41.19,74.0,Available,Loam,Sedimentary,3.79
+7/13/1917,19.4392516,-99.1636051,73.68,South America,Mexico,Far away,Fault B,Low,2.84,75.47,Available,Clay,Sedimentary,3.13
+4/2/1957,38.8944448,-8.0208303,13.05,North America,Portugal,Far away,Fault C,Low,85.14,92.62,Available,Loam,Igneous,5.78
+3/15/1943,34.9568026,-106.6055534,5.65,North America,United States,Far away,Fault C,Moderate,61.42,76.34,Not available,Loam,Metamorphic,2.4
+8/27/1930,61.3444468,16.0604207,64.01,North America,Sweden,Nearby,Fault B,Low,14.97,1.53,Available,Clay,Sedimentary,3.22
+6/17/1941,18.4701829,-69.9844492,83.18,Australia,Dominican Republic,Nearby,Fault A,High,65.12,89.68,Not available,Sandy,Igneous,5.08
+2/7/2013,-17.857298,-42.8583915,19.34,North America,Brazil,Far away,Fault C,Moderate,22.08,63.42,Not available,Sandy,Igneous,0.74
+3/23/1905,51.7454,15.5984299,44.34,Europe,Poland,Nearby,Fault C,Low,72.38,56.66,Not available,Clay,Igneous,7.87
+11/23/1921,18.6796993,98.6380598,75.86,Africa,Thailand,Far away,Fault A,Moderate,34.52,28.7,Available,Clay,Sedimentary,7.78
+1/24/2009,24.9104797,69.3504869,6.19,Africa,Pakistan,Nearby,Fault C,Low,35.51,62.49,Available,Clay,Sedimentary,7.34
+3/13/1969,-6.9122585,113.8257538,84.07,Australia,Indonesia,Nearby,Fault A,High,74.0,6.33,Not available,Sandy,Metamorphic,6.57
+9/9/1962,38.4800003,22.5843667,40.68,Africa,Greece,Nearby,Fault B,Low,91.02,57.99,Available,Loam,Sedimentary,4.23
+7/10/2013,-8.9444808,-35.2807624,84.73,South America,Brazil,Far away,Fault A,Low,24.3,33.55,Not available,Clay,Sedimentary,7.27
+9/24/1908,29.339476,105.287612,40.08,Africa,China,Far away,Fault C,Low,86.87,28.48,Available,Clay,Igneous,0.76
+7/21/1904,-8.602068,116.195655,77.09,Africa,Indonesia,Nearby,Fault C,Moderate,62.51,91.91,Not available,Loam,Metamorphic,8.6
+1/10/1994,-7.7502929,110.9549155,65.61,South America,Indonesia,Nearby,Fault C,High,64.28,69.61,Available,Clay,Igneous,5.35
+12/20/1984,53.0155306,21.3375451,97.91,North America,Poland,Nearby,Fault A,High,88.23,95.86,Not available,Loam,Sedimentary,1.68
+1/10/2007,48.2735736,24.411971,11.21,Asia,Ukraine,Far away,Fault A,Low,16.12,56.35,Not available,Clay,Igneous,5.71
+4/7/1985,-6.9069547,107.5593913,85.91,North America,Indonesia,Nearby,Fault B,Low,13.62,27.16,Available,Sandy,Sedimentary,0.05
+7/17/1954,-2.9655267,12.7278766,31.47,Australia,Republic of the Congo,Nearby,Fault B,Low,70.95,68.34,Not available,Sandy,Igneous,9.67
+1/22/1996,49.3564402,17.3645179,83.26,Africa,Czech Republic,Nearby,Fault C,High,14.51,76.48,Not available,Loam,Metamorphic,3.71
+1/30/1988,12.9549865,-5.7563151,89.94,Africa,Mali,Far away,Fault C,High,98.42,84.8,Available,Loam,Sedimentary,2.05
+4/2/1932,24.9936281,121.3009798,76.84,North America,China,Nearby,Fault B,Low,11.13,46.01,Not available,Loam,Metamorphic,1.51
+2/11/1932,19.4392516,-99.1636051,5.88,Australia,Mexico,Far away,Fault A,Low,75.56,31.13,Not available,Clay,Metamorphic,4.77
+9/1/2016,49.7380972,13.5928926,35.61,North America,Czech Republic,Nearby,Fault A,Moderate,49.26,63.32,Available,Clay,Sedimentary,0.21
+2/7/1919,59.3203432,18.0667845,6.53,Australia,Sweden,Far away,Fault B,Low,47.42,15.13,Not available,Sandy,Sedimentary,0.62
+10/14/1935,52.0097259,-8.337871,3.49,Australia,Ireland,Far away,Fault C,Low,31.2,63.97,Available,Loam,Sedimentary,2.54
+9/23/2012,32.084041,34.887762,7.28,Australia,Israel,Far away,Fault B,Low,78.39,77.23,Available,Loam,Sedimentary,6.42
+11/19/1982,8.4611612,25.6805868,42.03,Asia,South Sudan,Nearby,Fault C,Moderate,46.7,64.78,Not available,Clay,Metamorphic,3.59
+10/12/1952,41.6401662,-0.8832371,74.47,Australia,China,Far away,Fault B,High,1.05,7.59,Not available,Clay,Sedimentary,7.63
+9/1/2021,8.573,124.474,10.58,Australia,Philippines,Nearby,Fault B,Moderate,92.02,42.8,Available,Loam,Igneous,4.84
+12/2/1987,14.24512,-87.958061,80.24,North America,Honduras,Far away,Fault C,High,86.44,29.55,Available,Loam,Metamorphic,4.94
+4/11/1929,10.6968843,106.8907696,32.69,Europe,Vietnam,Nearby,Fault B,Low,7.02,38.04,Available,Clay,Sedimentary,0.41
+7/2/2001,-8.1654,124.5403,80.09,South America,Indonesia,Far away,Fault A,Low,31.27,24.77,Available,Loam,Sedimentary,8.62
+12/22/1938,58.4603072,8.7649767,58.47,Australia,Norway,Far away,Fault C,Moderate,54.28,47.68,Not available,Sandy,Igneous,4.99
+10/28/2003,-1.2549934,34.4705503,69.7,North America,Tanzania,Far away,Fault C,High,15.59,74.47,Available,Loam,Metamorphic,6.11
+8/7/1955,32.158702,35.224177,4.54,Europe,Palestinian Territory,Far away,Fault A,Moderate,85.0,12.07,Available,Loam,Metamorphic,1.33
+10/24/1948,-7.8100327,110.3592495,32.78,Africa,Indonesia,Far away,Fault B,High,78.37,91.25,Not available,Sandy,Igneous,7.57
+6/18/1960,3.1852692,-74.9208772,52.92,Europe,Colombia,Far away,Fault A,High,55.93,14.37,Available,Loam,Igneous,5.6
+5/9/1929,-7.6492089,111.4395128,61.38,Asia,Indonesia,Far away,Fault B,Moderate,75.08,24.0,Not available,Sandy,Metamorphic,4.58
+2/9/1982,-33.459409,-70.582502,38.18,Europe,Chile,Nearby,Fault B,High,93.65,80.79,Not available,Sandy,Metamorphic,1.63
+6/1/1927,29.00701,117.62965,49.41,Europe,China,Far away,Fault C,Low,78.62,70.42,Available,Clay,Igneous,0.55
+9/19/2003,7.1064967,124.828232,94.9,North America,Philippines,Far away,Fault B,High,7.4,84.71,Not available,Sandy,Sedimentary,1.17
+6/18/2012,59.3429221,18.0922798,57.27,Africa,Sweden,Far away,Fault B,Low,91.09,43.95,Not available,Clay,Igneous,7.36
+12/5/1901,40.7074498,14.8046066,74.68,South America,Italy,Far away,Fault A,Low,85.61,37.89,Not available,Sandy,Sedimentary,4.16
+12/14/1965,63.3772787,10.3070483,40.36,Australia,Norway,Nearby,Fault B,High,55.51,62.47,Available,Sandy,Sedimentary,3.86
+5/21/2013,51.0248584,22.8537385,68.92,Europe,Poland,Far away,Fault B,High,36.23,18.66,Not available,Clay,Metamorphic,5.99
+8/24/1936,31.295228,34.333152,78.16,Europe,Palestinian Territory,Far away,Fault B,High,98.52,32.99,Available,Clay,Igneous,9.93
+6/25/1944,42.58063,20.31619,92.37,Asia,Kosovo,Nearby,Fault C,Moderate,35.13,43.25,Available,Clay,Metamorphic,3.15
+11/3/1941,49.7881321,6.0767949,2.22,South America,Luxembourg,Nearby,Fault B,Moderate,80.87,47.59,Not available,Clay,Sedimentary,5.96
+3/19/1908,56.3041802,101.7805781,60.84,Africa,Russia,Nearby,Fault A,Low,1.45,71.54,Not available,Loam,Metamorphic,5.7
+7/27/1926,6.7826022,124.4758849,70.71,South America,Philippines,Far away,Fault C,High,54.38,90.59,Not available,Clay,Metamorphic,3.33
+3/8/1973,41.267244,123.236944,58.54,Europe,China,Nearby,Fault B,Moderate,56.62,35.58,Available,Clay,Igneous,5.47
+9/6/1932,-21.0504707,55.2828404,77.93,Australia,Reunion,Far away,Fault C,Low,68.85,13.27,Available,Clay,Metamorphic,3.32
+2/28/1925,48.8282801,2.7011678,67.05,Africa,France,Far away,Fault B,Low,96.79,58.98,Available,Sandy,Metamorphic,4.73
+8/27/1901,42.972096,126.746309,46.29,Europe,China,Nearby,Fault B,Low,75.24,93.07,Not available,Loam,Sedimentary,6.0
+4/11/1924,53.800245,-1.48003,26.45,Europe,United Kingdom,Nearby,Fault C,Moderate,38.51,4.7,Not available,Clay,Sedimentary,0.35
+7/28/1986,11.01088,6.798413,48.99,Europe,Nigeria,Far away,Fault B,Low,61.35,61.65,Not available,Clay,Metamorphic,6.34
+10/13/1921,53.7406255,55.8746137,75.22,Australia,Russia,Nearby,Fault B,Low,41.21,69.6,Available,Loam,Sedimentary,3.35
+6/2/1943,19.3851705,-99.1837453,99.75,North America,Mexico,Far away,Fault B,Low,7.33,39.27,Available,Loam,Igneous,4.0
+6/1/1971,22.6875359,-82.2936293,81.17,Europe,Cuba,Nearby,Fault B,Moderate,12.02,41.16,Available,Sandy,Metamorphic,0.13
+7/10/1960,37.56702,68.44668,42.11,Asia,Tajikistan,Far away,Fault B,High,46.79,65.31,Not available,Loam,Metamorphic,6.99
+8/21/1948,12.0308987,39.0476298,36.07,South America,Ethiopia,Nearby,Fault A,Moderate,81.35,87.31,Not available,Sandy,Sedimentary,9.84
+4/29/1970,-1.3964218,-48.4609448,52.22,North America,Brazil,Far away,Fault B,Low,2.07,68.56,Available,Clay,Metamorphic,6.66
+12/13/1933,19.4146406,-99.1395519,39.01,North America,Mexico,Far away,Fault A,Moderate,35.87,30.23,Not available,Sandy,Sedimentary,2.62
+5/27/2010,53.7322394,33.3332803,19.76,South America,Russia,Nearby,Fault C,Moderate,78.53,72.57,Available,Clay,Metamorphic,7.05
+3/8/1963,52.8266033,15.5780691,57.28,Australia,Poland,Far away,Fault B,Low,16.6,17.78,Available,Loam,Metamorphic,0.19
+3/13/1973,14.6473171,121.0006616,77.1,South America,Philippines,Far away,Fault B,Moderate,92.65,47.75,Not available,Clay,Igneous,2.5
+2/18/1938,39.9051618,116.4624467,7.25,Europe,China,Far away,Fault A,Moderate,21.21,94.67,Available,Clay,Metamorphic,3.31
+1/13/2010,33.6042793,69.2281531,92.88,Australia,Afghanistan,Nearby,Fault B,Low,70.94,0.53,Not available,Loam,Igneous,2.8
+4/5/2011,25.462039,119.088792,15.16,South America,China,Nearby,Fault A,Moderate,50.77,52.38,Available,Sandy,Metamorphic,3.61
+7/12/1974,-7.348959,108.3712309,36.6,South America,Indonesia,Nearby,Fault A,Moderate,60.98,96.44,Not available,Clay,Metamorphic,9.62
+2/26/1961,34.7263302,137.8550711,22.92,Europe,Japan,Far away,Fault B,High,34.67,80.38,Available,Sandy,Metamorphic,4.75
+4/7/1946,35.2866986,36.7415432,42.71,Africa,Syria,Far away,Fault B,High,63.02,1.76,Available,Clay,Sedimentary,0.52
+9/3/1978,27.788371,107.913127,67.22,North America,China,Nearby,Fault C,High,38.44,99.85,Not available,Clay,Metamorphic,8.2
+4/21/1950,24.70521,97.931954,27.02,South America,China,Nearby,Fault C,Moderate,99.37,42.41,Not available,Sandy,Igneous,2.48
+7/19/2022,-9.3228094,-36.8465564,24.65,South America,Brazil,Far away,Fault C,Moderate,57.13,62.94,Available,Loam,Igneous,8.69
+3/26/1949,30.7765271,121.247793,48.95,North America,China,Nearby,Fault B,High,49.52,8.13,Not available,Clay,Sedimentary,8.12
+7/12/1925,-4.232717,104.5247463,62.79,North America,Indonesia,Nearby,Fault C,Low,44.0,1.16,Available,Loam,Igneous,3.83
+4/23/2016,26.608357,118.481377,27.44,Africa,China,Nearby,Fault A,Low,47.51,86.24,Available,Sandy,Igneous,2.02
+12/10/1942,57.2749315,103.7420582,69.62,South America,Russia,Nearby,Fault C,Low,12.24,95.56,Available,Sandy,Metamorphic,4.99
+4/9/1993,-20.0292302,-45.5313666,12.41,Australia,Brazil,Nearby,Fault B,Moderate,97.17,69.75,Not available,Clay,Metamorphic,5.94
+9/27/1937,50.5702189,13.5166536,93.45,South America,Czech Republic,Far away,Fault C,Moderate,24.07,19.77,Available,Loam,Metamorphic,8.78
+6/22/2005,32.060255,118.796877,21.54,Europe,China,Far away,Fault C,Low,35.3,76.13,Available,Clay,Metamorphic,8.77
+11/16/1934,10.4451778,9.2446093,41.01,Africa,Nigeria,Far away,Fault B,High,34.39,0.61,Not available,Sandy,Metamorphic,5.9
+12/3/1984,19.6686032,-72.1268032,56.24,Australia,Haiti,Far away,Fault C,Moderate,96.76,83.13,Available,Sandy,Sedimentary,2.2
+12/6/1938,-13.6667285,-73.3487639,6.17,Australia,Peru,Far away,Fault A,Moderate,24.19,32.82,Not available,Sandy,Metamorphic,6.89
+12/20/1920,38.2905469,139.5501904,37.86,Australia,Japan,Far away,Fault C,Low,52.77,76.21,Not available,Sandy,Igneous,0.02
+3/8/1927,39.3297421,-8.3745717,63.52,Asia,Portugal,Nearby,Fault C,Low,16.31,80.83,Available,Clay,Igneous,1.07
+6/14/1969,13.9300945,120.9522977,50.34,Asia,Philippines,Far away,Fault C,Moderate,31.6,6.71,Not available,Sandy,Sedimentary,0.81
+11/10/1919,38.7046686,-9.3513499,49.5,Australia,Portugal,Nearby,Fault C,High,64.52,77.38,Not available,Sandy,Sedimentary,2.75
+8/10/1927,-1.5697615,110.5215459,27.08,Africa,Indonesia,Far away,Fault C,Low,21.96,83.26,Not available,Sandy,Metamorphic,4.2
+7/18/1939,-13.7866658,14.687936,72.52,Europe,Angola,Nearby,Fault C,Moderate,71.07,94.93,Not available,Sandy,Metamorphic,4.61
+12/5/2015,55.0121393,88.4665697,77.55,Australia,Russia,Nearby,Fault A,Moderate,43.37,66.58,Not available,Sandy,Igneous,0.14
+3/7/1962,26.731743,115.622147,27.71,North America,China,Far away,Fault A,High,36.55,18.51,Available,Clay,Igneous,4.19
+9/22/1910,27.569678,116.63704,24.83,South America,China,Nearby,Fault A,High,54.97,54.08,Not available,Sandy,Sedimentary,3.42
+11/23/1912,60.9842542,72.6081038,83.49,Africa,Russia,Nearby,Fault C,Low,33.25,40.53,Not available,Sandy,Metamorphic,5.03
+3/17/1910,55.706844,37.4622629,58.03,Asia,Russia,Nearby,Fault B,Low,30.72,45.25,Not available,Loam,Igneous,0.05
+8/3/1927,35.87616,102.801062,9.93,Africa,China,Nearby,Fault B,Low,28.96,85.12,Not available,Clay,Metamorphic,6.99
+11/13/1967,15.5027303,120.5129814,21.05,Africa,Philippines,Far away,Fault A,High,29.91,23.59,Not available,Sandy,Metamorphic,3.59
+7/24/1974,14.5716986,121.026941,71.99,Australia,Philippines,Nearby,Fault C,Moderate,36.09,63.52,Available,Loam,Igneous,1.25
+4/1/1905,36.5750373,52.026838,69.78,Europe,Iran,Nearby,Fault C,Low,92.81,2.28,Not available,Loam,Igneous,8.66
+2/14/2016,39.9459413,116.3817634,60.65,Africa,China,Nearby,Fault B,Low,17.66,2.28,Available,Clay,Metamorphic,6.9
+5/14/1948,14.0397463,120.659505,97.31,Africa,Philippines,Nearby,Fault B,Moderate,86.41,35.06,Available,Clay,Metamorphic,7.42
+10/29/2018,8.9308058,-79.7343791,35.33,Africa,Panama,Nearby,Fault C,Moderate,63.64,48.62,Not available,Clay,Sedimentary,0.39
+4/21/2020,43.247343,0.06251,15.85,North America,France,Far away,Fault C,High,15.3,49.29,Available,Sandy,Metamorphic,4.71
+3/1/1993,6.8928179,125.1635402,52.56,Europe,Philippines,Nearby,Fault B,Moderate,93.32,4.28,Not available,Loam,Sedimentary,1.08
+3/8/2008,44.412308,131.152545,10.28,Europe,China,Far away,Fault C,Low,49.07,43.14,Available,Sandy,Igneous,1.6
+3/27/1945,59.2420906,18.1015207,93.33,Africa,Sweden,Far away,Fault B,Moderate,43.43,91.18,Available,Sandy,Metamorphic,4.72
+7/12/1919,27.121652,107.047128,66.56,Australia,China,Nearby,Fault C,High,84.82,8.44,Available,Clay,Igneous,8.6
+1/28/2015,47.2038268,30.9163475,88.32,Africa,Ukraine,Nearby,Fault B,Low,9.14,47.62,Not available,Clay,Sedimentary,0.07
+3/20/1924,20.6323938,-87.0911879,42.48,South America,Mexico,Far away,Fault B,Low,69.33,41.32,Available,Loam,Sedimentary,1.38
+9/19/2011,38.9477341,-76.8807437,2.9,Asia,United States,Far away,Fault C,Moderate,34.98,40.73,Available,Sandy,Igneous,1.45
+12/7/1976,-12.3502374,44.5278242,93.75,Europe,Comoros,Nearby,Fault A,Low,71.68,80.33,Available,Loam,Sedimentary,9.91
+12/14/1997,52.5645365,30.8769586,50.3,Africa,Belarus,Far away,Fault C,Low,85.25,5.5,Not available,Sandy,Sedimentary,3.83
+7/27/1952,40.232604,116.410742,64.37,South America,China,Far away,Fault A,Low,8.83,10.09,Available,Clay,Igneous,5.7
+5/25/1916,-9.5739,119.4456,25.17,Africa,Indonesia,Nearby,Fault A,Low,38.79,25.51,Not available,Sandy,Sedimentary,9.8
+9/18/1984,-33.3306976,22.5345667,58.12,Asia,South Africa,Far away,Fault A,Moderate,2.8,20.95,Not available,Sandy,Igneous,0.9
+3/24/2011,-20.2197867,-40.2721884,12.09,South America,Brazil,Far away,Fault C,Low,72.12,16.56,Not available,Loam,Igneous,7.12
+8/17/1932,-8.4629286,118.7591541,83.99,Europe,Indonesia,Far away,Fault C,Moderate,51.39,25.37,Available,Clay,Sedimentary,5.36
+10/22/1995,25.600272,115.786056,10.38,North America,China,Nearby,Fault A,High,45.35,34.85,Available,Clay,Igneous,0.82
+8/19/1971,-24.8009137,-65.426487,2.14,North America,Argentina,Far away,Fault C,High,25.45,20.36,Available,Sandy,Sedimentary,5.52
+10/5/1926,-16.0010539,-55.0493375,73.23,North America,Brazil,Far away,Fault B,High,36.66,92.46,Not available,Sandy,Igneous,5.33
+3/30/2011,6.6401727,2.7530936,92.22,Africa,Nigeria,Far away,Fault A,Moderate,41.99,51.66,Not available,Loam,Metamorphic,6.23
+7/29/1986,-4.8216406,104.8337879,55.76,South America,Indonesia,Far away,Fault B,High,76.93,30.36,Not available,Clay,Sedimentary,0.43
+7/27/1939,-7.3174629,111.7614661,8.35,Europe,Indonesia,Far away,Fault B,Low,13.09,33.97,Available,Loam,Igneous,6.31
+10/29/1980,12.8644915,121.4804504,98.21,South America,Philippines,Nearby,Fault C,High,23.96,64.95,Not available,Clay,Metamorphic,6.0
+1/8/2009,-7.2131965,107.9487338,43.78,Europe,Indonesia,Far away,Fault A,Moderate,7.23,94.08,Not available,Sandy,Igneous,5.89
+4/28/1909,14.5925105,121.0404991,35.39,Australia,Philippines,Nearby,Fault C,Moderate,5.2,98.64,Available,Loam,Sedimentary,7.71
+8/25/1913,38.5733981,139.8280167,37.2,Europe,Japan,Nearby,Fault C,High,56.58,24.79,Not available,Clay,Sedimentary,4.16
+2/18/1999,42.52444,20.28083,43.26,Australia,Kosovo,Nearby,Fault C,Moderate,96.52,66.67,Available,Clay,Igneous,1.94
+3/25/1989,3.1121428,101.6935065,99.16,Asia,Malaysia,Far away,Fault A,Moderate,78.74,58.34,Not available,Sandy,Metamorphic,7.32
+11/3/1991,36.2291285,49.9213133,89.33,Europe,Iran,Nearby,Fault C,Moderate,36.82,31.06,Not available,Loam,Sedimentary,3.7
+10/21/1985,-22.6700589,27.225321,93.38,Australia,Botswana,Nearby,Fault C,Moderate,70.79,30.56,Available,Loam,Igneous,1.59
+2/11/1954,24.034527,112.047639,92.2,Asia,China,Far away,Fault A,Low,22.37,85.43,Not available,Clay,Sedimentary,6.7
+12/10/1943,67.6955232,24.8590222,82.83,Africa,Finland,Far away,Fault A,Moderate,61.71,45.85,Available,Loam,Sedimentary,4.84
+4/21/2013,-25.6801783,-53.5419225,67.71,Australia,Brazil,Nearby,Fault C,Moderate,10.9,21.23,Available,Sandy,Metamorphic,0.81
+3/21/1951,37.9022064,55.95535,98.67,Africa,Iran,Far away,Fault A,Moderate,2.94,4.95,Available,Clay,Igneous,1.0
+4/22/1949,10.376766,123.63656,47.74,Africa,Philippines,Nearby,Fault C,Moderate,54.92,81.7,Available,Clay,Metamorphic,5.84
+6/30/2017,48.9969392,31.4022422,64.56,Asia,Ukraine,Far away,Fault C,Moderate,40.61,62.78,Not available,Loam,Igneous,6.76
+8/21/1917,33.86,115.484454,99.55,North America,China,Nearby,Fault C,Low,69.79,55.64,Not available,Sandy,Metamorphic,1.84
+10/14/1922,38.263746,114.644894,22.41,Europe,China,Nearby,Fault B,High,85.56,11.06,Not available,Clay,Sedimentary,9.55
+11/10/2022,33.25,69.216667,26.04,Australia,Afghanistan,Far away,Fault C,High,29.21,88.43,Available,Clay,Igneous,8.33
+5/29/1980,42.5076746,20.3190646,20.29,Africa,Kosovo,Far away,Fault B,Low,24.91,86.54,Available,Clay,Igneous,3.06
+3/25/1904,53.8354447,91.3960432,63.11,Asia,Russia,Far away,Fault A,Low,93.54,5.24,Available,Loam,Sedimentary,5.31
+10/8/1933,-6.1788812,107.5209304,3.06,South America,Indonesia,Nearby,Fault C,Low,16.05,37.56,Available,Clay,Igneous,5.77
+12/16/1938,-6.8332046,108.4068343,13.12,North America,Indonesia,Nearby,Fault C,High,81.34,51.28,Not available,Sandy,Igneous,1.66
+11/12/1972,-8.8056791,121.7252457,9.77,Asia,Indonesia,Far away,Fault C,Low,18.24,65.93,Not available,Clay,Igneous,4.19
+7/28/1990,29.795049,93.850039,84.47,North America,China,Far away,Fault B,Low,46.34,19.0,Available,Sandy,Sedimentary,1.03
+5/13/1935,-6.6572023,106.7057733,85.58,Europe,Indonesia,Nearby,Fault B,Moderate,51.18,50.31,Not available,Sandy,Metamorphic,1.78
+1/31/1936,43.908712,127.303425,21.76,Australia,China,Nearby,Fault A,High,98.28,28.12,Available,Sandy,Metamorphic,3.5
+10/3/2018,37.955893,23.7020975,91.36,Europe,Greece,Nearby,Fault B,Low,92.31,30.67,Not available,Clay,Igneous,3.02
+11/21/2017,25.482034,49.5547333,77.04,Africa,Saudi Arabia,Nearby,Fault A,High,59.38,94.04,Not available,Loam,Metamorphic,1.04
+8/1/1955,35.7285765,139.5388561,99.09,North America,Japan,Nearby,Fault A,High,98.93,80.12,Available,Loam,Metamorphic,7.88
+5/6/2014,53.0637214,26.6392615,17.17,Australia,Belarus,Far away,Fault A,Low,63.56,37.91,Available,Clay,Metamorphic,7.88
+4/20/1984,49.6877756,6.3485626,72.21,Asia,Luxembourg,Far away,Fault A,Moderate,55.29,56.17,Available,Loam,Sedimentary,9.44
+11/12/2004,36.608183,101.808485,74.16,Europe,China,Nearby,Fault C,Low,26.78,37.57,Available,Clay,Sedimentary,3.09
+6/16/1954,-12.930823,-75.7803892,43.95,South America,Peru,Nearby,Fault A,High,56.76,45.33,Available,Clay,Sedimentary,8.41
+5/20/1965,-6.0419882,-76.9700669,52.72,North America,Peru,Far away,Fault B,High,43.8,93.97,Available,Sandy,Metamorphic,4.19
+9/18/2021,-0.8406658,-80.1596041,49.03,Asia,Ecuador,Nearby,Fault C,High,26.97,65.49,Not available,Clay,Igneous,5.69
+8/22/1913,13.0034658,8.9079782,73.0,Australia,Niger,Far away,Fault A,High,29.96,59.35,Not available,Loam,Sedimentary,8.54
+6/9/1918,53.6557845,41.6873842,57.37,Asia,Russia,Far away,Fault A,Moderate,58.68,94.83,Available,Sandy,Metamorphic,8.03
+1/9/1958,42.5824637,141.3159801,15.14,Australia,Japan,Nearby,Fault C,Moderate,32.05,8.09,Not available,Sandy,Metamorphic,5.54
+11/18/1961,-1.5798321,-48.598804,42.37,South America,Brazil,Nearby,Fault C,Moderate,34.88,5.07,Not available,Sandy,Metamorphic,3.31
+9/15/2020,-8.3650254,114.6453131,3.33,Australia,Indonesia,Far away,Fault A,Moderate,74.3,20.44,Not available,Sandy,Igneous,2.49
